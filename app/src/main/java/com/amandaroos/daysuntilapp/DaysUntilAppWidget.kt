@@ -3,12 +3,16 @@ package com.amandaroos.daysuntilapp
 import android.appwidget.AppWidgetManager
 import android.appwidget.AppWidgetProvider
 import android.content.Context
+import android.text.format.DateFormat.getDateFormat
+import android.text.format.DateFormat.getTimeFormat
 import android.widget.RemoteViews
+import java.util.*
 
 /**
  * Implementation of App Widget functionality.
  */
 class DaysUntilAppWidget : AppWidgetProvider() {
+
     override fun onUpdate(
         context: Context,
         appWidgetManager: AppWidgetManager,
@@ -34,6 +38,11 @@ internal fun updateAppWidget(
     appWidgetManager: AppWidgetManager,
     appWidgetId: Int
 ) {
+    val MILLISECONDS_IN_DAY = 86400000
+    val MILLISECONDS_IN_HOUR = 3600000
+    val MILLISECONDS_IN_MINUTE = 60000
+    val MILLISECONDS_IN_SECOND = 1000
+
     val sharedPref = context.getSharedPreferences(
         context.getString(R.string.preference_file_key), Context.MODE_PRIVATE
     )
@@ -60,38 +69,36 @@ internal fun updateAppWidget(
         //setOnClickPendingIntent(R.id.widget_refresh_button, pendingIntent2)
     }
 
-//            val c = Calendar.getInstance()
-//            var now = c.timeInMillis
-//
-//            var savedDate =
-//                sharedPref.getLong(
-//                    context.getString(R.string.date_key),
-//                    Calendar.getInstance().timeInMillis
-//                )
-//
-//            views.setTextViewText(
-//                R.id.date_text,
-//                DateFormat.getDateFormat(context).format(savedDate)
-//            )
-//            views.setTextViewText(
-//                R.id.time_text,
-//                DateFormat.getTimeFormat(context).format(savedDate)
-//            )
-//
-//            var days = (savedDate - now) / MILLISECONDS_IN_DAY
+    val c = Calendar.getInstance()
+    var now = c.timeInMillis
 
-    views.setTextViewText(R.id.days_until_number, "1")
+    var savedDate =
+        sharedPref.getLong(
+            context.getString(R.string.date_key),
+            Calendar.getInstance().timeInMillis
+        )
 
-//            if (days < 1) {
-//                views.setTextViewText(R.id.days_text, context.getString(R.string.days))
-//                views.setTextViewText(R.id.days_until_number, "0")
-//            } else if (days < 2) {
-//                views.setTextViewText(R.id.days_text, context.getString(R.string.day))
-//                views.setTextViewText(R.id.days_until_number, "1")
-//            } else if (days > 0) {
-//                views.setTextViewText(R.id.days_text, context.getString(R.string.days))
-//                views.setTextViewText(R.id.days_until_number, days.toInt().toString())
-//            }
+    views.setTextViewText(
+        R.id.date_text,
+        getDateFormat(context).format(savedDate)
+    )
+    views.setTextViewText(
+        R.id.time_text,
+        getTimeFormat(context).format(savedDate)
+    )
+
+    var days = (savedDate - now) / MILLISECONDS_IN_DAY
+
+            if (days < 1) {
+                views.setTextViewText(R.id.days_text, context.getString(R.string.days))
+                views.setTextViewText(R.id.days_until_number, "0")
+            } else if (days < 2) {
+                views.setTextViewText(R.id.days_text, context.getString(R.string.day))
+                views.setTextViewText(R.id.days_until_number, "1")
+            } else if (days > 0) {
+                views.setTextViewText(R.id.days_text, context.getString(R.string.days))
+                views.setTextViewText(R.id.days_until_number, days.toInt().toString())
+            }
 
 //            var hours =
 //                ((savedDate - now) % MILLISECONDS_IN_DAY) / MILLISECONDS_IN_HOUR
