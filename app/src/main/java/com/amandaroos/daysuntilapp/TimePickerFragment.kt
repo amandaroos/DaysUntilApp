@@ -2,6 +2,8 @@ package com.amandaroos.daysuntilapp
 
 import android.app.Dialog
 import android.app.TimePickerDialog
+import android.appwidget.AppWidgetManager
+import android.content.ComponentName
 import android.content.Context
 import android.os.Bundle
 import android.text.format.DateFormat.is24HourFormat
@@ -52,5 +54,15 @@ class TimePickerFragment : DialogFragment(), TimePickerDialog.OnTimeSetListener 
         c.set(Calendar.MINUTE, minute)
 
         sharedPref!!.edit().putLong(getString(R.string.date_key), c.timeInMillis).commit()
+
+        val ids = AppWidgetManager.getInstance(activity).getAppWidgetIds(
+            ComponentName(
+                requireContext(),
+                DaysUntilAppWidget::class.java
+            )
+        )
+        for (id in ids) {
+            updateAppWidget(requireContext(), AppWidgetManager.getInstance(context), id)
+        }
     }
 }

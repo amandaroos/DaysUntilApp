@@ -89,29 +89,29 @@ internal fun updateAppWidget(
 
     var days = (savedDate - now) / MILLISECONDS_IN_DAY
 
-            if (days < 1) {
-                views.setTextViewText(R.id.days_text, context.getString(R.string.days))
-                views.setTextViewText(R.id.days_until_number, "0")
-            } else if (days < 2) {
-                views.setTextViewText(R.id.days_text, context.getString(R.string.day))
-                views.setTextViewText(R.id.days_until_number, "1")
-            } else if (days > 0) {
-                views.setTextViewText(R.id.days_text, context.getString(R.string.days))
-                views.setTextViewText(R.id.days_until_number, days.toInt().toString())
-            }
+    if (days < 1) {
+        views.setTextViewText(R.id.days_text, context.getString(R.string.days))
+        views.setTextViewText(R.id.days_until_number, "0")
+    } else if (days < 2) {
+        views.setTextViewText(R.id.days_text, context.getString(R.string.day))
+        views.setTextViewText(R.id.days_until_number, "1")
+    } else if (days > 0) {
+        views.setTextViewText(R.id.days_text, context.getString(R.string.days))
+        views.setTextViewText(R.id.days_until_number, days.toInt().toString())
+    }
 
-//            var hours =
-//                ((savedDate - now) % MILLISECONDS_IN_DAY) / MILLISECONDS_IN_HOUR
-//            if (hours < 1) {
-//                views.setTextViewText(R.id.hours_text, context.getString(R.string.hours))
-//                views.setTextViewText(R.id.hours_until_number, "0")
-//            } else if (hours < 2) {
-//                views.setTextViewText(R.id.hours_text, context.getString(R.string.hour))
-//                views.setTextViewText(R.id.hours_until_number, "1")
-//            } else if (hours > 0) {
-//                views.setTextViewText(R.id.hours_text, context.getString(R.string.hours))
-//                views.setTextViewText(R.id.hours_until_number, hours.toInt().toString())
-//            }
+
+    var hours = ((savedDate - now) % MILLISECONDS_IN_DAY) / MILLISECONDS_IN_HOUR
+    if (hours < 1) {
+        views.setTextViewText(R.id.hours_text, context.getString(R.string.hours))
+        views.setTextViewText(R.id.hours_until_number, "0")
+    } else if (hours < 2) {
+        views.setTextViewText(R.id.hours_text, context.getString(R.string.hour))
+        views.setTextViewText(R.id.hours_until_number, "1")
+    } else if (hours > 0) {
+        views.setTextViewText(R.id.hours_text, context.getString(R.string.hours))
+        views.setTextViewText(R.id.hours_until_number, hours.toInt().toString())
+    }
 
 //            var minutes =
 //                (((savedDate - now) % MILLISECONDS_IN_DAY) % MILLISECONDS_IN_HOUR) / MILLISECONDS_IN_MINUTE

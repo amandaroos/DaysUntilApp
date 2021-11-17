@@ -2,13 +2,14 @@ package com.amandaroos.daysuntilapp
 
 import android.app.DatePickerDialog
 import android.app.Dialog
+import android.appwidget.AppWidgetManager
+import android.content.ComponentName
 import android.content.Context
 import android.os.Bundle
-import android.text.format.DateFormat
 import android.widget.DatePicker
 import androidx.fragment.app.DialogFragment
-import kotlinx.android.synthetic.main.activity_main.*
 import java.util.*
+
 
 class DatePickerFragment : DialogFragment(), DatePickerDialog.OnDateSetListener {
 
@@ -31,7 +32,7 @@ class DatePickerFragment : DialogFragment(), DatePickerDialog.OnDateSetListener 
         val day = c.get(Calendar.DAY_OF_MONTH)
 
         // Create a new instance of DatePickerDialog and return it
-        return DatePickerDialog(activity!!, this, year, month, day)
+        return DatePickerDialog(requireActivity(), this, year, month, day)
     }
 
     override fun onDateSet(view: DatePicker, year: Int, month: Int, day: Int) {
@@ -50,5 +51,15 @@ class DatePickerFragment : DialogFragment(), DatePickerDialog.OnDateSetListener 
         c.set(year, month, day)
 
         sharedPref!!.edit().putLong(getString(R.string.date_key), c.timeInMillis).commit()
+
+        val ids = AppWidgetManager.getInstance(activity).getAppWidgetIds(
+            ComponentName(
+                requireContext(),
+                DaysUntilAppWidget::class.java
+            )
+        )
+        for (id in ids) {
+            updateAppWidget(requireContext(), AppWidgetManager.getInstance(context), id)
+        }
     }
 }
