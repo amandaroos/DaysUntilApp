@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Days Until App</string>
+    <string name="app_name">Days Until</string>
     <string name="preference_file_key" translatable="false">preferencefilekey</string>
     <string name="date_key" translatable="false">datekey</string>
     <string name="hours">Hours</string>
