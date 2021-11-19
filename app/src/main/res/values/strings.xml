@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">Days Until App</string>
-    <string name="add_widget">Add widget</string>
     <string name="preference_file_key" translatable="false">preferencefilekey</string>
     <string name="date_key" translatable="false">datekey</string>
     <string name="hours">Hours</string>
@@ -14,6 +13,7 @@
     <string name="second">Second</string>
     <string name="settings">Settings</string>
     <string name="donate">Donate</string>
+    <string name="upgrade">Upgrade</string>
 
     <!--Donation page-->
     <string name="action_donate">Donate to Developer</string>
@@ -36,4 +36,9 @@
     <string name="small_heart">small heart</string>
     <string name="medium_heart">medium heart</string>
     <string name="large_heart">large heart</string>
+    <string name="widget_display">Widget Display</string>
+    <string name="show_hours">Show Hours</string>
+    <string name="show_date_and_time">Show Date and Time</string>
+    <string name="display_hours_key">displayhourskey</string>
+    <string name="display_date_and_time_key">displaydateandtimekey</string>
 </resources>

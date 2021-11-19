@@ -5,6 +5,7 @@ import android.appwidget.AppWidgetProvider
 import android.content.Context
 import android.text.format.DateFormat.getDateFormat
 import android.text.format.DateFormat.getTimeFormat
+import android.view.View
 import android.widget.RemoteViews
 import java.util.*
 
@@ -68,6 +69,12 @@ internal fun updateAppWidget(
         //setOnClickPendingIntent(R.id.widget_settings_button, pendingIntent)
         //setOnClickPendingIntent(R.id.widget_refresh_button, pendingIntent2)
     }
+
+    var showHours =
+        sharedPref.getBoolean(context.getString(R.string.display_hours_key), false)
+
+    var showDateAndTime =
+        sharedPref.getBoolean(context.getString(R.string.display_date_and_time_key), false)
 
     val c = Calendar.getInstance()
     var now = c.timeInMillis
@@ -137,6 +144,18 @@ internal fun updateAppWidget(
 //                seconds_text.text = context.getString(R.string.seconds)
 //                seconds_until_number.text = seconds.toInt().toString()
 //            }
+
+    if (showHours){
+        views.setViewVisibility(R.id.widget_hours_layout, View.VISIBLE)
+    } else {
+        views.setViewVisibility(R.id.widget_hours_layout, View.GONE)
+    }
+
+    if (showDateAndTime){
+        views.setViewVisibility(R.id.widget_date_time_layout, View.VISIBLE)
+    } else {
+        views.setViewVisibility(R.id.widget_date_time_layout, View.GONE)
+    }
 
     // Tell the AppWidgetManager to perform an update on the current app widget
     appWidgetManager.updateAppWidget(appWidgetId, views)
