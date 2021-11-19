@@ -115,22 +115,25 @@ class MainActivity : AppCompatActivity() {
         newFragment.show(supportFragmentManager, "datePicker")
     }
 
-//    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
-//        val inflater: MenuInflater = menuInflater
-//        inflater.inflate(R.menu.main_menu, menu)
-//        return true
-//    }
-//
-//    override fun onOptionsItemSelected(item: MenuItem): Boolean {
-//        return when (item.itemId) {
-//            R.id.action_settings -> {
-//                val intent = Intent(this, SettingsActivity::class.java).apply {
-//                    //putExtra(getString(R.string.context_key),this@MainActivity)
-//                }
-//                startActivity(intent)
-//                true
-//            }
-//            else -> super.onOptionsItemSelected(item)
-//        }
-//    }
+    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
+        val inflater: MenuInflater = menuInflater
+        inflater.inflate(R.menu.main_menu, menu)
+        return true
+    }
+
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        return when (item.itemId) {
+            R.id.action_settings -> {
+                val intent = Intent(this, SettingsActivity::class.java)
+                startActivity(intent)
+                true
+            }
+            R.id.action_donate ->{
+                val intent2 = Intent(this, DonateActivity::class.java)
+                startActivity(intent2)
+                true
+            }
+            else -> super.onOptionsItemSelected(item)
+        }
+    }
 }

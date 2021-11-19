@@ -16,9 +16,9 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="0dp"
+            android:layout_gravity="center"
             android:layout_weight="1"
             android:gravity="center"
-            android:layout_gravity="center"
             android:orientation="horizontal">
 
             <LinearLayout
@@ -34,7 +34,7 @@
                     android:layout_height="wrap_content"
                     android:text=""
                     android:textColor="@color/white"
-                    android:textSize="28sp"
+                    android:textSize="48sp"
                     tools:text="23" />
 
                 <TextView
@@ -43,17 +43,20 @@
                     android:layout_height="wrap_content"
                     android:text=""
                     android:textColor="@color/white"
-                    android:textSize="12sp"
+                    android:textSize="18sp"
                     tools:text="Days" />
             </LinearLayout>
 
 
             <LinearLayout
+                android:id="@+id/widget_hours_layout"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:gravity="center"
-                android:orientation="vertical">
+                android:orientation="vertical"
+                android:visibility="gone"
+                tools:visibility="visible">
 
                 <LinearLayout
                     android:layout_width="wrap_content"
@@ -67,7 +70,7 @@
                         android:layout_height="wrap_content"
                         android:text=""
                         android:textColor="@color/white"
-                        android:textSize="28sp"
+                        android:textSize="48sp"
                         tools:text="10" />
 
                     <TextView
@@ -76,31 +79,34 @@
                         android:layout_height="wrap_content"
                         android:text="@string/hours"
                         android:textColor="@color/white"
-                        android:textSize="12sp" />
+                        android:textSize="18sp" />
                 </LinearLayout>
             </LinearLayout>
         </LinearLayout>
 
         <LinearLayout
+            android:id="@+id/widget_date_time_layout"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1"
             android:gravity="center"
-            android:orientation="vertical">
+            android:orientation="vertical"
+            android:visibility="gone"
+            tools:visibility="visible">
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/until"
                 android:textColor="@color/white"
-                android:textSize="12sp" />
+                android:textSize="16sp" />
 
             <TextView
                 android:id="@+id/date_text"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textColor="@color/white"
-                android:textSize="12sp"
+                android:textSize="16sp"
                 tools:text="12/25/2021" />
 
             <TextView
@@ -108,7 +114,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textColor="@color/white"
-                android:textSize="12sp"
+                android:textSize="16sp"
                 tools:text="12/25/2021" />
 
         </LinearLayout>
