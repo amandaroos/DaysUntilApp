@@ -23,9 +23,9 @@
     <string name="small">ትንሽ</string> 
     <string name="medium">መካከለኛ</string> 
     <string name="large">ትልቅ</string> 
-    <string name="small_heart">ትንሽ ልብ</string> 
-    <string name="medium_heart"></string> 
-    <string name="large_heart">ትልቅ ልብ</string> 
+    <string name="small_heart">ትንሽ ልብ</string>
+    <string name="medium_heart">መካከለኛ ልብ</string>
+   <string name="large_heart">ትልቅ ልብ</string>
     <string name="widget_display">ፍርግም ማሳያ</string> 
     <string name="show_hours">ሰዓታት አሳይ</string> 
     <string name="show_date_and_time">ቀን እና ሰዓት አሳይ</string> 
