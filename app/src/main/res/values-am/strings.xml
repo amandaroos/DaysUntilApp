@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">ቀናት</string> 
+    <string name="hours">ሰዓታት</string> 
+    <string name="minutes">ደቂቃዎች</string> 
+    <string name="seconds">ሰከንዶች</string> 
+    <string name="until">እስከ</string> 
+    <string name="days">ቀናት</string> 
+    <string name="day">ቀን</string> 
+    <string name="hour">ሰአት</string> 
+    <string name="minute">ደቂቃ</string> 
+    <string name="second">ሁለተኛ</string> 
+    <string name="settings">ቅንብሮች</string> 
+    <string name="donate">ልገሳ</string> 
+    <string name="upgrade">ማሻሻል</string> 
+    <string name="rate">ደረጃ</string> 
+    <string name="action_donate">ለገንቢ ለገንዳ</string> 
+    <string name="donate_greeting">ሰላም!</string> 
+    <string name="donate_message">ስሜ አማንዳ ነው</string> 
+    <string name="donate_message2">ይህንን መተግበሪያ እየተደሰቱ ከሆነ, እባክዎን የእኔን መዋጮ መተግበሪያ መግዛትን ያስቡበት</string> 
+    <string name="donate_message3">ልገሳው መተግበሪያ ምንም አያደርግም, ግን ቀላል በማዳበር ላይ ያለኝ ጊዜ ያለኝ ጊዜ, የማስታወቂያ መተግበሪያዎች አድናቆት እንዳላቸው ያሳየኛል</string> 
+    <string name="donate_thanks">አመሰግናለሁ!</string> 
+    <string name="small">ትንሽ</string> 
+    <string name="medium">መካከለኛ</string> 
+    <string name="large">ትልቅ</string> 
+    <string name="small_heart">ትንሽ ልብ</string> 
+    <string name="medium_heart"></string> 
+    <string name="large_heart">ትልቅ ልብ</string> 
+    <string name="widget_display">ፍርግም ማሳያ</string> 
+    <string name="show_hours">ሰዓታት አሳይ</string> 
+    <string name="show_date_and_time">ቀን እና ሰዓት አሳይ</string> 
+ </resources>
