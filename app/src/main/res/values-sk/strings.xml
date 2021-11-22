@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">Dni do</string> 
+    <string name="hours">Hodina</string> 
+    <string name="minutes">Zápisnica</string> 
+    <string name="seconds">Sekundy</string> 
+    <string name="until">Až do</string> 
+    <string name="days">Dni</string> 
+    <string name="day"></string> 
+    <string name="hour">Hodina</string> 
+    <string name="minute">Minútu</string> 
+    <string name="second">Druhý</string> 
+    <string name="settings">nastavenie</string> 
+    <string name="donate">Darovať</string> 
+    <string name="upgrade">Upgrade</string> 
+    <string name="rate">Miera</string> 
+    <string name="action_donate">Darovať vývojárovi</string> 
+    <string name="donate_greeting">Ahoj!</string> 
+    <string name="donate_message">Moje meno je Amanda</string> 
+    <string name="donate_message2">Ak sa tešíte na túto aplikáciu, ktorú som vyvinul, zvážte nákup My Dartion App</string> 
+    <string name="donate_message3">Aplikácia Dartion nerobí nič, ale váš dar mi ukáže, že môj čas strávený vývojom jednoduchých, aplikácie NO-ADS je ocenené</string> 
+    <string name="donate_thanks"></string> 
+    <string name="small"></string> 
+    <string name="medium"></string> 
+    <string name="large"></string> 
+    <string name="small">Malý</string> 
+    <string name="medium">Stredný</string> 
+    <string name="large">Veľký</string> 
+    <string name="small_heart">malé srdce</string> 
+    <string name="medium_heart">stredný srdce</string> 
+    <string name="large_heart">veľké srdce</string> 
+    <string name="widget_display">Displej widgetu</string> 
+    <string name="show_hours"></string> 
+    <string name="show_date_and_time">Zobraziť dátum a čas</string> 
+    <string name="show_hours">Zobraziť hodiny</string> 
+ </resources>

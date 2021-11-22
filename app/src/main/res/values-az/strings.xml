@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">Günlər Qədər</string>
+    <string name="hours">Sair</string> 
+    <string name="minutes">Dəqiqəlik</string> 
+    <string name="seconds">Saniyə</string> 
+    <string name="until">Qədər</string> 
+    <string name="days">Günlük</string> 
+    <string name="day">Gün</string> 
+    <string name="hour">Sair</string> 
+    <string name="minute">Bir dəqiqə</string> 
+    <string name="second">İkinci</string> 
+    <string name="settings">Parametrlər</string> 
+    <string name="donate">Hədiyyə etmək</string> 
+    <string name="upgrade">Təkmilləşdirmək</string> 
+    <string name="rate">Qiymətləndirmək</string> 
+    <string name="action_donate">Geliştiriciyə Bağışlayın</string>
+    <string name="donate_greeting">Salam!</string> 
+    <string name="donate_message">Adım Amanda</string> 
+    <string name="donate_message2">Bu tətbiqdən zövq alırsınızsa, zəhmət olmasa, hədiyyə tətbiqimi almağı düşünün</string> 
+    <string name="donate_message3">Bağış tətbiqi heç bir şey etmir, ancaq hədiyyə mənə vaxtımın sadə, heç bir reklam tətbiqlərini inkişaf etdirdiyini mənə göstərəcəyini mənə göstərəcəkdir</string> 
+    <string name="donate_thanks">Ey!</string> 
+    <string name="small">Kiçik</string> 
+    <string name="medium">Mühit</string> 
+    <string name="large">Böyük</string> 
+    <string name="small_heart">ürəksıxan</string> 
+    <string name="medium_heart">orta ürək</string>
+    <string name="large_heart">böyük ürək</string> 
+    <string name="widget_display">Vidjet Ekranı</string>
+    <string name="show_hours">Saatı Göstərmək</string>
+    <string name="show_date_and_time">Tarixi və Vaxtı Göstərin</string>
+ </resources>

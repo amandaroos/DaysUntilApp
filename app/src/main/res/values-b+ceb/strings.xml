@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">Mga Adlaw Hangtod</string>
+    <string name="hours">Oras</string> 
+    <string name="minutes">Minuto</string> 
+    <string name="seconds">Segundasyon</string> 
+    <string name="until">Hangtod</string> 
+    <string name="days">Adlaw</string> 
+    <string name="day">Adlaw</string> 
+    <string name="hour">Oras</string> 
+    <string name="minute">Gamay kaayo</string> 
+    <string name="second">Segundo</string> 
+    <string name="settings">Mga Setting</string> 
+    <string name="donate">Mohatag</string> 
+    <string name="upgrade">Pag-upgrade</string> 
+    <string name="rate">Bili</string> 
+    <string name="action_donate">Pag-donate sa Developer</string> 
+    <string name="donate_greeting">Kumusta!</string> 
+    <string name="donate_message">Ang akong ngalan mao si Amanda</string> 
+    <string name="donate_message2">Kung nalipay ka sa kini nga app nga akong naugmad, palihug hunahunaa ang pagpalit sa akong donasyon app</string> 
+    <string name="donate_message3">Wala\'y nahimo ang donasyon app, apan ang imong donasyon magpakita kanako nga ang akong oras nga gigugol sa pag-ugmad sa yano, wala\'y mga ad nga adps ang gipabilhan</string> 
+    <string name="donate_thanks">Salamat!</string> 
+    <string name="small">Gamay</string> 
+    <string name="medium">Tungatunga</string> 
+    <string name="large">Dako</string> 
+    <string name="small_heart">Gagmay nga kasingkasing</string> 
+    <string name="medium_heart">medium nga kasingkasing</string>
+    <string name="large_heart">dako nga kasingkasing</string> 
+    <string name="widget_display">Pagpakita sa Widget</string> 
+    <string name="show_hours">Mga Oras nga ipakita</string>
+    <string name="show_date_and_time">Ipakita ang Petsa ug Oras</string>
+ </resources>

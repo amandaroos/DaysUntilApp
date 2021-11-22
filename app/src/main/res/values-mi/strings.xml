@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">Ra tae noa ki</string> 
+    <string name="hours">Haora haora</string> 
+    <string name="minutes">Meneti</string> 
+    <string name="seconds">Hēkona</string> 
+    <string name="until">Tae noa</string> 
+    <string name="days">Ra</string> 
+    <string name="day"></string> 
+    <string name="hour">Hāora</string> 
+    <string name="minute">Meneti</string> 
+    <string name="second">Tuarua</string> 
+    <string name="settings">Tautuhinga</string> 
+    <string name="donate">Hoatu koha</string> 
+    <string name="upgrade">Whakahou</string> 
+    <string name="rate">Utu</string> 
+    <string name="action_donate">Koha ki te Kaiwhakawhanake</string> 
+    <string name="donate_greeting">Kia ora</string> 
+    <string name="donate_message">Ko Amanda toku ingoa</string> 
+    <string name="donate_message2">Mena kei te harikoa koe i tenei taupānga i whakawhanakehia e au, tirohia koa te hoko i taku taupānga takoha</string> 
+    <string name="donate_message3">Ko te taupānga takoha kaore e mahi i tetahi mea, engari ko to takoha ka whakaatu mai ki ahau ko taku waa e pau ana i nga mahi ngawari, kaore e manakohia ana e au</string> 
+    <string name="donate_thanks">Mihi mai rā!</string> 
+    <string name="small"></string> 
+    <string name="medium"></string> 
+    <string name="large"></string> 
+    <string name="small">Iti</string> 
+    <string name="medium">Kauwaka</string> 
+    <string name="large">Nui</string> 
+    <string name="small_heart">Te ngakau iti</string> 
+    <string name="medium_heart">ngakau ngakau</string> 
+    <string name="large_heart">Te ngakau nui</string> 
+    <string name="widget_display">Whakaaturanga Widget</string> 
+    <string name="show_hours"></string> 
+    <string name="show_date_and_time">Whakaatu rā me te wā</string> 
+    <string name="show_hours">Whakaatuhia nga haora</string> 
+ </resources>

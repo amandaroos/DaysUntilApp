@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">Dny Do</string>
+    <string name="hours">Hodiny</string> 
+    <string name="minutes">Minut</string> 
+    <string name="seconds">Sekundy</string> 
+    <string name="until">Dokud</string> 
+    <string name="days">Dnů</string> 
+    <string name="day">Den</string>
+    <string name="hour">Hodina</string> 
+    <string name="minute">Minuta</string> 
+    <string name="second">Druhý</string> 
+    <string name="settings">Nastavení</string> 
+    <string name="donate">Darovat</string> 
+    <string name="upgrade">Vylepšit</string> 
+    <string name="rate">Hodnotit</string> 
+    <string name="action_donate">Darujte Vývojářem</string>
+    <string name="donate_greeting">Ahoj!</string> 
+    <string name="donate_message">Jmenuji se Amanda</string> 
+    <string name="donate_message2">Pokud se vám líbí tuto aplikaci, vyvinul jsem, zvažte prosím nákup mé dárcovské aplikace</string> 
+    <string name="donate_message3">Aplikace dárcovství nedělá nic, ale vaše dary mi ukáže, že můj čas strávený vývojem jednoduchých, no-ads apps je oceněno</string> 
+    <string name="donate_thanks">Dík!</string>
+    <string name="small">Malý</string> 
+    <string name="medium">Střední</string> 
+    <string name="large">Velký</string> 
+    <string name="small_heart">malé srdce</string> 
+    <string name="medium_heart">střední srdce</string> 
+    <string name="large_heart">Velké srdce</string> 
+    <string name="widget_display">Displej Widgetu</string>
+    <string name="show_hours">Zobrazit Hodiny</string>
+    <string name="show_date_and_time">Zobrazit Datum a Čas</string>
+ </resources>

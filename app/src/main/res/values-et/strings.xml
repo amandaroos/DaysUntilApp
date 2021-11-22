@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">Päeva kuni</string> 
+    <string name="hours">Tunde</string> 
+    <string name="minutes">Protokoll</string> 
+    <string name="seconds">Sekkuda</string> 
+    <string name="until">Kuni</string> 
+    <string name="days">Päevi</string> 
+    <string name="day"></string> 
+    <string name="hour">Tunde</string> 
+    <string name="minute">Minuti-</string> 
+    <string name="second">Teine</string> 
+    <string name="settings">Seaded</string> 
+    <string name="donate">Annetama</string> 
+    <string name="upgrade">Uuendama</string> 
+    <string name="rate">Määr</string> 
+    <string name="action_donate">Anneta arendajale</string> 
+    <string name="donate_greeting">Tere!</string> 
+    <string name="donate_message">Minu nimi on amanda</string> 
+    <string name="donate_message2">Kui te naudite seda rakendust, mida ma arendasin, kaaluge oma annetuse rakenduse ostmist</string> 
+    <string name="donate_message3">Annetusrakendus ei tee midagi, kuid teie annetus näitab mulle, et minu lihtsa, reklaamide rakenduste arendamise aeg on teretulnud</string> 
+    <string name="donate_thanks">Tänu!</string> 
+    <string name="small"></string> 
+    <string name="medium"></string> 
+    <string name="large"></string> 
+    <string name="small">Väike</string> 
+    <string name="medium">Keskmise</string> 
+    <string name="large">Suur</string> 
+    <string name="small_heart">väike süda</string> 
+    <string name="medium_heart">keskmise südame</string> 
+    <string name="large_heart">suur süda</string> 
+    <string name="widget_display">Vidina ekraan</string> 
+    <string name="show_hours"></string> 
+    <string name="show_date_and_time">Näita kuupäeva ja kellaaega</string> 
+    <string name="show_hours">Näitama</string> 
+ </resources>

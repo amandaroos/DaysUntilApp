@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">روز تا</string> 
+    <string name="hours">ساعت ها</string> 
+    <string name="minutes">دقایق</string> 
+    <string name="seconds">هر ثانیه</string> 
+    <string name="until">تا زمان</string> 
+    <string name="days">روزها</string> 
+    <string name="day"></string> 
+    <string name="hour">ساعت</string> 
+    <string name="minute">دقیقه</string> 
+    <string name="second">دومین</string> 
+    <string name="settings">تنظیمات</string> 
+    <string name="donate">اهدا کردن</string> 
+    <string name="upgrade">ارتقاء</string> 
+    <string name="rate">نرخ</string> 
+    <string name="action_donate">اهدا به توسعه دهنده</string> 
+    <string name="donate_greeting">سلام!</string> 
+    <string name="donate_message">نام من آماندا است</string> 
+    <string name="donate_message2">اگر از این برنامه لذت ببرید، لطفا خرید برنامه کمک مالی من را در نظر بگیرید</string> 
+    <string name="donate_message3">برنامه کمک مالی هیچ کاری انجام نمی دهد، اما کمک مالی شما به من نشان می دهد که زمان من صرف توسعه برنامه های ساده، بدون تبلیغات قدردانی می شود</string> 
+    <string name="donate_thanks">با تشکر!</string> 
+    <string name="small"></string> 
+    <string name="medium"></string> 
+    <string name="large"></string> 
+    <string name="small">کم اهمیت</string> 
+    <string name="medium">متوسط</string> 
+    <string name="large">بزرگ</string> 
+    <string name="small_heart">قلب کوچک</string> 
+    <string name="medium_heart">قلب متوسط</string> 
+    <string name="large_heart">قلب بزرگ</string> 
+    <string name="widget_display">نمایش ویجت</string> 
+    <string name="show_hours"></string> 
+    <string name="show_date_and_time">نمایش تاریخ و زمان</string> 
+    <string name="show_hours">نمایش ساعت ها</string> 
+ </resources>

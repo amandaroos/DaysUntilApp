@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">Deeg bis</string> 
+    <string name="hours">Stonnen.</string> 
+    <string name="minutes">Minutte vun der Minutten</string> 
+    <string name="seconds">Sekonnen</string> 
+    <string name="until">Bis</string> 
+    <string name="days">Deeg</string> 
+    <string name="day"></string> 
+    <string name="hour">Stonn</string> 
+    <string name="minute">Minutt</string> 
+    <string name="second">Zweeten</string> 
+    <string name="settings">Astellunge</string> 
+    <string name="donate">Spenden</string> 
+    <string name="upgrade">Upgrade</string> 
+    <string name="rate">Bewäertten</string> 
+    <string name="action_donate">Spende fir Entwéckler</string> 
+    <string name="donate_greeting">Hallo!</string> 
+    <string name="donate_message">Mäin Numm ass Amanda</string> 
+    <string name="donate_message2">Wann Dir dës App genéisst, hunn ech entwéckelt, gëff w.e.g. meng Sprit App kaaft</string> 
+    <string name="donate_message3">D\'Spender App mécht näischt, awer Ären Don wäert mech weisen, datt meng Zäit fir einfach ze entwéckelen, net ze entwéckelen, net ze korrigéieren</string> 
+    <string name="donate_thanks">Merci!</string> 
+    <string name="small"></string> 
+    <string name="medium"></string> 
+    <string name="large"></string> 
+    <string name="small">Klengen</string> 
+    <string name="medium">Mëttelméisseg</string> 
+    <string name="large">Grouss</string> 
+    <string name="small_heart">klengt Häerz</string> 
+    <string name="medium_heart">mëttelméisseg</string> 
+    <string name="large_heart">Groussherzogen Häerz</string> 
+    <string name="widget_display">Widget Display</string> 
+    <string name="show_hours"></string> 
+    <string name="show_date_and_time">Show.lu an Zäit</string> 
+    <string name="show_hours">Weise Stonnen</string> 
+ </resources>

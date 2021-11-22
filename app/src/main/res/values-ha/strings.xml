@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">Kwanaki har zuwa</string> 
+    <string name="hours">Sa\'ad da</string> 
+    <string name="minutes">Ƙanƙane</string> 
+    <string name="seconds">Na sakan</string> 
+    <string name="until">Har</string> 
+    <string name="days">Kwana</string> 
+    <string name="day"></string> 
+    <string name="hour">Awa</string> 
+    <string name="minute">Minti</string> 
+    <string name="second">Na biyu</string> 
+    <string name="settings">Saitunan</string> 
+    <string name="donate">Ba da kyauta</string> 
+    <string name="upgrade">Haɓakawa</string> 
+    <string name="rate">Farashi</string> 
+    <string name="action_donate">Ba da gudummawa don haɓakawa</string> 
+    <string name="donate_greeting">Sannu!</string> 
+    <string name="donate_message">Sunana Amanda</string> 
+    <string name="donate_message2">Idan kuna jin daɗin wannan app ɗin na ci gaba, don Allah la\'akari da sayen kayan kyauta</string> 
+    <string name="donate_message3">Aikoniyar gudummawar ba ta yin komai, amma gudummarku zata nuna min cewa lokaci na da aka kashe sosai, ba za\'a iya yaba wa apps apps ba</string> 
+    <string name="donate_thanks">Na gode!</string> 
+    <string name="small"></string> 
+    <string name="medium"></string> 
+    <string name="large"></string> 
+    <string name="small">Ƙanƙane</string> 
+    <string name="medium">Matsakaici</string> 
+    <string name="large">M</string> 
+    <string name="small_heart">karamin zuciya</string> 
+    <string name="medium_heart">matsakaici zuciya</string> 
+    <string name="large_heart">Babban zuciya</string> 
+    <string name="widget_display">Nunin Widget</string> 
+    <string name="show_hours"></string> 
+    <string name="show_date_and_time">Nuna kwanan wata da lokaci</string> 
+    <string name="show_hours">Nuna awanni</string> 
+ </resources>

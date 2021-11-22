@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">Päivää asti</string> 
+    <string name="hours">Tunteja</string> 
+    <string name="minutes">Pöytäkirja</string> 
+    <string name="seconds">Sekuntia</string> 
+    <string name="until">Siihen asti kun</string> 
+    <string name="days">Päivät</string> 
+    <string name="day"></string> 
+    <string name="hour">Tunnin</string> 
+    <string name="minute">Minuutti</string> 
+    <string name="second">Toinen</string> 
+    <string name="settings">asetukset</string> 
+    <string name="donate">Lahjoittaa</string> 
+    <string name="upgrade">Päivittää</string> 
+    <string name="rate">Korko</string> 
+    <string name="action_donate">Lahjoita kehittäjälle</string> 
+    <string name="donate_greeting">Hei!</string> 
+    <string name="donate_message">Nimeni on Amanda</string> 
+    <string name="donate_message2">Jos nautit tämän sovelluksen, jota olen kehittänyt, harkitse lahjoituksen sovelluksen ostamista</string> 
+    <string name="donate_message3">Lahjoituksen sovellus ei tee mitään, mutta lahjoituksesi näyttää minulle, että aika, joka kuluu yksinkertaisen, ei-mainosten sovelluksia arvostetaan</string> 
+    <string name="donate_thanks">Kiitos!</string> 
+    <string name="small"></string> 
+    <string name="medium"></string> 
+    <string name="large"></string> 
+    <string name="small">Pieni</string> 
+    <string name="medium">Keskipitkä</string> 
+    <string name="large">Suuri</string> 
+    <string name="small_heart">pieni sydän</string> 
+    <string name="medium_heart">keskipitkä sydän</string> 
+    <string name="large_heart">suuri sydän</string> 
+    <string name="widget_display">Widget-näyttö</string> 
+    <string name="show_hours"></string> 
+    <string name="show_date_and_time">Näytä päivämäärä ja aika</string> 
+    <string name="show_hours">Näytä tuntia</string> 
+ </resources>

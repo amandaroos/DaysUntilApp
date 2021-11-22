@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">Andro mandra-pahatongan\'izany</string> 
+    <string name="hours">ORA</string> 
+    <string name="minutes">Minitra</string> 
+    <string name="seconds">Segondra</string> 
+    <string name="until">mandra</string> 
+    <string name="days">Andro</string> 
+    <string name="day"></string> 
+    <string name="hour">Ora</string> 
+    <string name="minute">Minitra</string> 
+    <string name="second">FAHAROA</string> 
+    <string name="settings">Fikirana</string> 
+    <string name="donate">Manomeza</string> 
+    <string name="upgrade">hanatsarana</string> 
+    <string name="rate">taha</string> 
+    <string name="action_donate">Fanomezana amin\'ny mpamorona</string> 
+    <string name="donate_greeting">Salama!</string> 
+    <string name="donate_message">Amanda ny anarako</string> 
+    <string name="donate_message2">Raha mankafy ity fampiharana ity aho dia novakiko, azafady mba hevero fa hividy ny fampiharana ny fanomezana</string> 
+    <string name="donate_message3">Ny fampiharana fanomezana dia tsy manao na inona na inona, fa ny fanomezanao dia hampiseho amiko fa ny fotoako dia am-pandrosoana ny fampiharana tsy misy ads</string> 
+    <string name="donate_thanks">Misaotra!</string> 
+    <string name="small"></string> 
+    <string name="medium"></string> 
+    <string name="large"></string> 
+    <string name="small">KELY</string> 
+    <string name="medium">SALASALANY</string> 
+    <string name="large">ankamaroan\'ireo</string> 
+    <string name="small_heart">fo kely</string> 
+    <string name="medium_heart">Fo Medium</string> 
+    <string name="large_heart">fo lehibe</string> 
+    <string name="widget_display">Widget Aseho</string> 
+    <string name="show_hours"></string> 
+    <string name="show_date_and_time">Asehoy ny daty sy ny fotoana</string> 
+    <string name="show_hours">Asehoy ny ora</string> 
+ </resources>

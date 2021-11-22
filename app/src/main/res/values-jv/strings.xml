@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">Dina nganti</string> 
+    <string name="hours">Jam</string> 
+    <string name="minutes">Menit</string> 
+    <string name="seconds">Detik</string> 
+    <string name="until">Nganti</string> 
+    <string name="days">Dina</string> 
+    <string name="day"></string> 
+    <string name="hour">Jam</string> 
+    <string name="minute">Menit</string> 
+    <string name="second">Kapindho</string> 
+    <string name="settings">Setelan</string> 
+    <string name="donate">Sumbang</string> 
+    <string name="upgrade">Upgrade</string> 
+    <string name="rate">Rating</string> 
+    <string name="action_donate">Sumbang kanggo pangembang</string> 
+    <string name="donate_greeting">Halo!</string> 
+    <string name="donate_message">Nami kula Amanda</string> 
+    <string name="donate_message2">Yen sampeyan seneng app iki sing dikembangake, coba coba tuku app sumbangan</string> 
+    <string name="donate_message3">Aplikasi sumbangan ora nindakake apa-apa, nanging sumbangan sampeyan bakal nuduhake manawa wektu aku ngenteni aplikasi sing gampang ngembangake aplikasi sing ringkes, ora dihargai</string> 
+    <string name="donate_thanks">Thanks!</string> 
+    <string name="small"></string> 
+    <string name="medium"></string> 
+    <string name="large"></string> 
+    <string name="small">Cilik</string> 
+    <string name="medium">Medium</string> 
+    <string name="large">Gedhe</string> 
+    <string name="small_heart">Ati Cilik</string> 
+    <string name="medium_heart">Ati medium</string> 
+    <string name="large_heart">jantung gedhe</string> 
+    <string name="widget_display">Tampilan Widget</string> 
+    <string name="show_hours"></string> 
+    <string name="show_date_and_time">Tampilake tanggal lan wektu</string> 
+    <string name="show_hours">Tampilake jam</string> 
+ </resources>

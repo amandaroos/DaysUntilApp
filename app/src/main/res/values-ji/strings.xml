@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">טעג ביז</string> 
+    <string name="hours">שעה</string> 
+    <string name="minutes">מינוט</string> 
+    <string name="seconds">סעקונדעס</string> 
+    <string name="until">ביז</string> 
+    <string name="days">טעג</string> 
+    <string name="day"></string> 
+    <string name="hour">שאָ</string> 
+    <string name="minute">מינוט</string> 
+    <string name="second">סעקונדע</string> 
+    <string name="settings">סעטטינגס</string> 
+    <string name="donate">מאַקרעוו זייַן</string> 
+    <string name="upgrade">Upgrade</string> 
+    <string name="rate">קורס</string> 
+    <string name="action_donate">שענקען פֿאַר דעוועלאָפּער</string> 
+    <string name="donate_greeting">אַ גוט יאָר!</string> 
+    <string name="donate_message">מייַן נאָמען איז אַמאַנדאַ</string> 
+    <string name="donate_message2">אויב איר זענט ענדזשויינג דעם אַפּ. איך דעוועלאָפּעד, ביטע באַטראַכטן פּערטשאַסינג מיין צושטייַער אַפּ</string> 
+    <string name="donate_message3">די צושטייַער אַפּ טוט נישט טאָן עפּעס, אָבער דיין צושטייַער וועט ווייַזן מיר אַז מיין צייט פארבראכט דעוועלאָפּינג פּשוט, קיין-אַדס אַפּפּס איז אַפּרישיייטיד</string> 
+    <string name="donate_thanks"></string> 
+    <string name="small"></string> 
+    <string name="medium"></string> 
+    <string name="large"></string> 
+    <string name="small">קליין</string> 
+    <string name="medium">מיטל</string> 
+    <string name="large">גרויס</string> 
+    <string name="small_heart">קליין הארץ</string> 
+    <string name="medium_heart">מיטל האַרץ</string> 
+    <string name="large_heart">גרויס האַרץ</string> 
+    <string name="widget_display">ווידזשיט אַרויסווייַזן</string> 
+    <string name="show_hours"></string> 
+    <string name="show_date_and_time">ווייַזן טאָג און צייט</string> 
+    <string name="show_hours">ווייַזן שעה</string> 
+ </resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">Dani Do</string>
+    <string name="hours">Sati</string> 
+    <string name="minutes">Minuta</string> 
+    <string name="seconds">Sekundi</string> 
+    <string name="until">Do</string> 
+    <string name="days">Dani</string> 
+    <string name="day">Dan</string> 
+    <string name="hour">Sat</string> 
+    <string name="minute">Minut</string> 
+    <string name="second">Sekunda</string> 
+    <string name="settings">Postavke</string> 
+    <string name="donate">Donirati</string> 
+    <string name="upgrade">Nadogradnja</string> 
+    <string name="rate">Ocijeniti</string> 
+    <string name="action_donate">Donirajte Programeru</string>
+    <string name="donate_greeting">Zdravo!</string> 
+    <string name="donate_message">Moje ime je Amanda</string> 
+    <string name="donate_message2">Ako uživate u ovoj aplikaciji koju sam razvio, razmotrite kupovinu moje donacijske aplikacije</string> 
+    <string name="donate_message3">Aplikacija za donaciju ne radi ništa, ali vaša donacija će mi pokazati da mi je vrijeme provedeno u razvoju jednostavnih, aplikacija bez oglasa</string> 
+    <string name="donate_thanks">Hvala!</string> 
+    <string name="small">Mali</string> 
+    <string name="medium">Srednji</string> 
+    <string name="large">Veliko</string> 
+    <string name="small_heart">malo srce</string> 
+    <string name="medium_heart">srednje srce</string>
+    <string name="large_heart">veliko srce</string> 
+    <string name="widget_display">Widget Displej</string>
+    <string name="show_hours">Prikaži Sate</string>
+    <string name="show_date_and_time">Prikaži Datum i Vrijeme</string>
+ </resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">Kungacha kunlar</string> 
+    <string name="hours">Soat</string> 
+    <string name="minutes">Daqiqa</string> 
+    <string name="seconds">Soniya</string> 
+    <string name="until">Gacha</string> 
+    <string name="days">Kunlar</string> 
+    <string name="day"></string> 
+    <string name="hour">Soat</string> 
+    <string name="minute">Minut</string> 
+    <string name="second">Ikkinchi</string> 
+    <string name="settings">Sozlash</string> 
+    <string name="donate">Xayr-ehson qilmoq</string> 
+    <string name="upgrade">Yangilamoq</string> 
+    <string name="rate">Baholamoq</string> 
+    <string name="action_donate">Ishlab chiqaruvchiga xayr-ehson qiling</string> 
+    <string name="donate_greeting">Salom!</string> 
+    <string name="donate_message">Mening ismim Amanda</string> 
+    <string name="donate_message2">Agar siz ushbu ilovadan zavqlanayotgan bo\'lsangiz, men xayr-ehson qilish uchun ilovamni sotib olaylik</string> 
+    <string name="donate_message3">Xayriya ilovasi hech narsa qilmaydi, lekin sizning xayr-ehsoningiz meni sodda rivojlanayotgan, reklama dasturlari juda qadrlanganligini ko\'rsatadi</string> 
+    <string name="donate_thanks"></string> 
+    <string name="small"></string> 
+    <string name="medium"></string> 
+    <string name="large"></string> 
+    <string name="small">Kichik</string> 
+    <string name="medium">O\'rta</string> 
+    <string name="large">Katta</string> 
+    <string name="small_heart">kichik yurak</string> 
+    <string name="medium_heart">O\'rta yurak</string> 
+    <string name="large_heart">katta yurak</string> 
+    <string name="widget_display">Vidjet displey</string> 
+    <string name="show_hours"></string> 
+    <string name="show_date_and_time">Sana va vaqtni ko\'rsating</string> 
+    <string name="show_hours">Soatlarni ko\'rsating</string> 
+ </resources>

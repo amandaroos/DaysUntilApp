@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">Roj heta</string> 
+    <string name="hours">Demjimêr</string> 
+    <string name="minutes">Deqq</string> 
+    <string name="seconds">Seconds</string> 
+    <string name="until">Ta</string> 
+    <string name="days">Rojan</string> 
+    <string name="day"></string> 
+    <string name="hour">Seet</string> 
+    <string name="minute">Deqqe</string> 
+    <string name="second">Duyem</string> 
+    <string name="settings">Mîhengan</string> 
+    <string name="donate">Bêşdan</string> 
+    <string name="upgrade">Îro</string> 
+    <string name="rate">Qûrs</string> 
+    <string name="action_donate">Donate to pêşdebiran</string> 
+    <string name="donate_greeting">Slav!</string> 
+    <string name="donate_message">Navê min Amanda ye</string> 
+    <string name="donate_message2">Heke hûn vê sepana ku min pêşve xistine, ji kerema xwe bifikirin ku kirîna sepana min a donation</string> 
+    <string name="donate_message3">Serîlêdana Donation tiştek nake, lê donê we ji min re destnîşan dike ku dema min pêşkeftina sade, bê-reklaman tête pejirandin</string> 
+    <string name="donate_thanks">Spas!</string> 
+    <string name="small"></string> 
+    <string name="medium"></string> 
+    <string name="large"></string> 
+    <string name="small">Biçûk</string> 
+    <string name="medium">Medya</string> 
+    <string name="large">Mezin</string> 
+    <string name="small_heart">dilê piçûk</string> 
+    <string name="medium_heart">dilê Mediad</string> 
+    <string name="large_heart">Dilê mezin</string> 
+    <string name="widget_display">Display Widget</string> 
+    <string name="show_hours"></string> 
+    <string name="show_date_and_time">Dîrok û Wext nîşan bide</string> 
+    <string name="show_hours">Demjimêran nîşan bikin</string> 
+ </resources>

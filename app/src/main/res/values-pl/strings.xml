@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">Dni do</string> 
+    <string name="hours">godziny</string> 
+    <string name="minutes">Minuty</string> 
+    <string name="seconds">sekundy</string> 
+    <string name="until">Dopóki</string> 
+    <string name="days">Dni</string> 
+    <string name="day"></string> 
+    <string name="hour">Godzina</string> 
+    <string name="minute">Minuta</string> 
+    <string name="second">druga</string> 
+    <string name="settings">Ustawienia</string> 
+    <string name="donate">Podarować</string> 
+    <string name="upgrade">Aktualizacja</string> 
+    <string name="rate">Wskaźnik</string> 
+    <string name="action_donate">Darowizna do programisty</string> 
+    <string name="donate_greeting">Cześć!</string> 
+    <string name="donate_message">Mam na imię Amanda</string> 
+    <string name="donate_message2">Jeśli korzystasz z tej aplikacji, opracowałem, rozważ zakupy aplikacji mojej darowizny</string> 
+    <string name="donate_message3">Aplikacja Darowizna nic nie robi, ale twoja darowizna pokaże mi, że mój czas spędzony na rozwijaniu prostych aplikacji No-ADS jest doceniany</string> 
+    <string name="donate_thanks"></string> 
+    <string name="small"></string> 
+    <string name="medium"></string> 
+    <string name="large"></string> 
+    <string name="small">Mały</string> 
+    <string name="medium">Średni</string> 
+    <string name="large">Duży</string> 
+    <string name="small_heart">małe serce</string> 
+    <string name="medium_heart">średnie serce</string> 
+    <string name="large_heart">duże serce</string> 
+    <string name="widget_display">Widget Display.</string> 
+    <string name="show_hours"></string> 
+    <string name="show_date_and_time">Pokaż datę i godzinę</string> 
+    <string name="show_hours">Pokaż godziny</string> 
+ </resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">Giorni fino a</string> 
+    <string name="hours">Ore</string> 
+    <string name="minutes">Minuti</string> 
+    <string name="seconds">Secondi</string> 
+    <string name="until">Fino a quando</string> 
+    <string name="days">Giorni</string> 
+    <string name="day"></string> 
+    <string name="hour">Ora</string> 
+    <string name="minute">Minuscola</string> 
+    <string name="second">Seconda</string> 
+    <string name="settings">Impostazioni</string> 
+    <string name="donate">Donare</string> 
+    <string name="upgrade">Aggiornamento</string> 
+    <string name="rate">Valutare</string> 
+    <string name="action_donate">Dona allo sviluppatore</string> 
+    <string name="donate_greeting">Ciao!</string> 
+    <string name="donate_message">Il mio nome è Amanda</string> 
+    <string name="donate_message2">Se stai godendo questa app ho sviluppato, ti preghiamo di considerare l\'acquisto della mia app Donazione</string> 
+    <string name="donate_message3">L\'app Donazione non fa nulla, ma la tua donazione mi mostrerà che il mio tempo ha speso lo sviluppo di app semplici e senza annunci è apprezzata</string> 
+    <string name="donate_thanks">Grazie!</string> 
+    <string name="small"></string> 
+    <string name="medium"></string> 
+    <string name="large"></string> 
+    <string name="small">Piccola</string> 
+    <string name="medium">medio</string> 
+    <string name="large">Grande</string> 
+    <string name="small_heart">Piccolo cuore</string> 
+    <string name="medium_heart">cuore medio</string> 
+    <string name="large_heart">grande cuore</string> 
+    <string name="widget_display">Display widget.</string> 
+    <string name="show_hours"></string> 
+    <string name="show_date_and_time">Mostra data e ora</string> 
+    <string name="show_hours">Mostrare ore</string> 
+ </resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">ਦਿਨ ਜਦ ਤੱਕ</string> 
+    <string name="hours">ਘੰਟੇ</string> 
+    <string name="minutes">ਮਿੰਟ</string> 
+    <string name="seconds">ਸਕਿੰਟ</string> 
+    <string name="until">ਜਦ ਤੱਕ</string> 
+    <string name="days">ਦਿਨ</string> 
+    <string name="day"></string> 
+    <string name="hour">ਘੰਟਾ</string> 
+    <string name="minute">ਮਿੰਟ</string> 
+    <string name="second">ਦੂਜਾ</string> 
+    <string name="settings">ਸੈਟਿੰਗਜ਼</string> 
+    <string name="donate">ਦਾਨ</string> 
+    <string name="upgrade">ਅਪਗ੍ਰੇਡ</string> 
+    <string name="rate">ਰੇਟ</string> 
+    <string name="action_donate">ਡਿਵੈਲਪਰ ਨੂੰ ਦਾਨ ਕਰੋ</string> 
+    <string name="donate_greeting">ਸਤ ਸ੍ਰੀ ਅਕਾਲ!</string> 
+    <string name="donate_message">ਮੇਰਾ ਨਾਮ ਅਮਾਂਡਾ ਹੈ</string> 
+    <string name="donate_message2">ਜੇ ਤੁਸੀਂ ਇਸ ਐਪ ਦਾ ਅਨੰਦ ਲੈ ਰਹੇ ਹੋ ਤਾਂ ਮੈਂ ਵਿਕਸਤ ਕੀਤਾ, ਕਿਰਪਾ ਕਰਕੇ ਮੇਰੇ ਦਾਨ ਐਪ ਨੂੰ ਖਰੀਦਣ ਤੇ ਵਿਚਾਰ ਕਰੋ</string> 
+    <string name="donate_message3">ਦਾਨ ਐਪ ਕੁਝ ਵੀ ਨਹੀਂ ਕਰਦਾ, ਪਰ ਤੁਹਾਡਾ ਦਾਨ ਮੈਨੂੰ ਦਿਖਾ ਦੇਵੇਗਾ ਕਿ ਮੇਰਾ ਸਮਾਂ ਸਧਾਰਣ, ਕੋਈ-ਇਸ਼ਤਿਹਾਰਾਂ ਦੇ ਐਪਸ ਦੀ ਪ੍ਰਸ਼ੰਸਾ ਨਹੀਂ ਕਰਦਾ</string> 
+    <string name="donate_thanks"></string> 
+    <string name="small"></string> 
+    <string name="medium"></string> 
+    <string name="large"></string> 
+    <string name="small">ਛੋਟਾ</string> 
+    <string name="medium">ਮਾਧਿਅਮ</string> 
+    <string name="large">ਵੱਡਾ</string> 
+    <string name="small_heart">ਛੋਟਾ ਦਿਲ</string> 
+    <string name="medium_heart">ਦਰਮਿਆਨੇ ਦਿਲ</string> 
+    <string name="large_heart">ਵੱਡਾ ਦਿਲ</string> 
+    <string name="widget_display">ਵਿਜੇਟ ਡਿਸਪਲੇਅ</string> 
+    <string name="show_hours"></string> 
+    <string name="show_date_and_time">ਤਾਰੀਖ ਅਤੇ ਸਮਾਂ ਦਿਖਾਓ</string> 
+    <string name="show_hours">ਘੰਟੇ ਦਿਖਾਓ</string> 
+ </resources>

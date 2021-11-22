@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">Días ata que</string> 
+    <string name="hours">Horas</string> 
+    <string name="minutes">Minutos</string> 
+    <string name="seconds">Segundos</string> 
+    <string name="until">Ata.</string> 
+    <string name="days">DÍAS</string> 
+    <string name="day"></string> 
+    <string name="hour">Hora</string> 
+    <string name="minute">Minuto</string> 
+    <string name="second">Segundo.</string> 
+    <string name="settings">Configuración</string> 
+    <string name="donate">Donate.</string> 
+    <string name="upgrade">Upgrade.</string> 
+    <string name="rate">Taxa</string> 
+    <string name="action_donate">Doar ao desarrollador</string> 
+    <string name="donate_greeting">Ola!</string> 
+    <string name="donate_message">O meu nome é Amanda</string> 
+    <string name="donate_message2">Se estás a gozar desta aplicación que desenvolvín, por favor, considere a compra da miña aplicación de doazón</string> 
+    <string name="donate_message3">A aplicación de doazón non fai nada, pero a túa doazón me mostrará que o meu tempo dedicado ao desenvolvemento de aplicacións sinxelas e non-anuncios é apreciado</string> 
+    <string name="donate_thanks">Grazas!</string> 
+    <string name="small"></string> 
+    <string name="medium"></string> 
+    <string name="large"></string> 
+    <string name="small">Pequeno</string> 
+    <string name="medium">Medio</string> 
+    <string name="large">Grande</string> 
+    <string name="small_heart">Corazón pequeno</string> 
+    <string name="medium_heart">corazón medio.</string> 
+    <string name="large_heart">Grande corazón</string> 
+    <string name="widget_display">Widget Display.</string> 
+    <string name="show_hours"></string> 
+    <string name="show_date_and_time">Mostrar a data e hora</string> 
+    <string name="show_hours">Amosar horas</string> 
+ </resources>

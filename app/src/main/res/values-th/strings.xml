@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">วันจนกระทั่ง</string> 
+    <string name="hours">ชั่วโมง</string> 
+    <string name="minutes">นาที</string> 
+    <string name="seconds">วินาที</string> 
+    <string name="until">จนกระทั่ง</string> 
+    <string name="days">วัน</string> 
+    <string name="day"></string> 
+    <string name="hour">ชั่วโมง</string> 
+    <string name="minute">นาที</string> 
+    <string name="second">ที่สอง</string> 
+    <string name="settings">การตั้งค่า</string> 
+    <string name="donate">บริจาค</string> 
+    <string name="upgrade">อัพเกรด</string> 
+    <string name="rate">ประเมินค่า</string> 
+    <string name="action_donate">บริจาคให้กับนักพัฒนา</string> 
+    <string name="donate_greeting">สวัสดี!</string> 
+    <string name="donate_message">ชื่อของฉันคืออแมนดา</string> 
+    <string name="donate_message2">หากคุณเพลิดเพลินกับแอพนี้ฉันพัฒนาโปรดพิจารณาซื้อแอปบริจาคของฉัน</string> 
+    <string name="donate_message3">แอปบริจาคไม่ได้ทำอะไรเลย แต่การบริจาคของคุณจะแสดงให้ฉันเห็นว่าเวลาของฉันใช้เวลาในการพัฒนาแอพที่เรียบง่ายไม่มีโฆษณาจะได้รับการชื่นชม</string> 
+    <string name="donate_thanks"></string> 
+    <string name="small"></string> 
+    <string name="medium"></string> 
+    <string name="large"></string> 
+    <string name="small">เล็ก</string> 
+    <string name="medium">ปานกลาง</string> 
+    <string name="large">ใหญ่</string> 
+    <string name="small_heart">หัวใจเล็ก ๆ</string> 
+    <string name="medium_heart">หัวใจปานกลาง</string> 
+    <string name="large_heart">หัวใจใหญ่</string> 
+    <string name="widget_display">วิดเจ็ตแสดง</string> 
+    <string name="show_hours"></string> 
+    <string name="show_date_and_time">แสดงวันที่และเวลา</string> 
+    <string name="show_hours"></string> 
+ </resources>

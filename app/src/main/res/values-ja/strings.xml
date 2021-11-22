@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">までの日数</string> 
+    <string name="hours">時間</string> 
+    <string name="minutes">分</string> 
+    <string name="seconds">秒数</string> 
+    <string name="until">それまで</string> 
+    <string name="days">日々</string> 
+    <string name="day"></string> 
+    <string name="hour">時間</string> 
+    <string name="minute">分</string> 
+    <string name="second">2番</string> 
+    <string name="settings">設定</string> 
+    <string name="donate">寄付</string> 
+    <string name="upgrade">アップグレード</string> 
+    <string name="rate">割合</string> 
+    <string name="action_donate">開発者に寄付します</string> 
+    <string name="donate_greeting">こんにちは！</string> 
+    <string name="donate_message">私の名前はアマンダです</string> 
+    <string name="donate_message2">私が開発したこのアプリを楽しんでいるなら、私の寄付アプリを購入することを検討してください</string> 
+    <string name="donate_message3">寄付アプリは何もしませんが、あなたの寄付は私の時間がシンプルで、広告のないアプリの開発に費やしたことを私に示すでしょう</string> 
+    <string name="donate_thanks">ありがとう！</string> 
+    <string name="small"></string> 
+    <string name="medium"></string> 
+    <string name="large"></string> 
+    <string name="small">小さな</string> 
+    <string name="medium">中くらい</string> 
+    <string name="large">大きい</string> 
+    <string name="small_heart">小さな心</string> 
+    <string name="medium_heart">中心</string> 
+    <string name="large_heart">大ハート</string> 
+    <string name="widget_display">ウィジェットディスプレイ</string> 
+    <string name="show_hours"></string> 
+    <string name="show_date_and_time">日付と時刻を表示</string> 
+    <string name="show_hours">時間を表示します</string> 
+ </resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">Аас</string> 
+    <string name="hours">Цаг</string> 
+    <string name="minutes">Хоёр хоног</string> 
+    <string name="seconds">Хоёр цаг</string> 
+    <string name="until">Хүртэл</string> 
+    <string name="days">Ах</string> 
+    <string name="day"></string> 
+    <string name="hour">Аг</string> 
+    <string name="minute">Моч / минут</string> 
+    <string name="second">Хоёрдахь нь</string> 
+    <string name="settings">Тохиргоо</string> 
+    <string name="donate">Бэлэглэх</string> 
+    <string name="upgrade">Оржилт</string> 
+    <string name="rate">Үнэ</string> 
+    <string name="action_donate">Хөгжүүлэгчдэд хандив өгөх</string> 
+    <string name="donate_greeting">Сайн уу?</string> 
+    <string name="donate_message">Миний нэр Аманда</string> 
+    <string name="donate_message2">Хэрэв та энэ апп-ыг таашаал авч байгаа бол миний хөгжсөн хандивын апп худалдаж авах талаар бодож үзээрэй</string> 
+    <string name="donate_message3">Хандивын апп нь юу ч хийдэггүй, гэхдээ таны хандив нь энгийн, зар сурталчилгааг олж авахад миний цаг хугацаа, зар сурталчилгааг үнэлэх болно</string> 
+    <string name="donate_thanks">! Баяртай</string> 
+    <string name="small"></string> 
+    <string name="medium"></string> 
+    <string name="large"></string> 
+    <string name="small">Жижиг</string> 
+    <string name="medium">Дунд</string> 
+    <string name="large">Том</string> 
+    <string name="small_heart">жижиг нүд</string> 
+    <string name="medium_heart">дундаж ба дунд</string> 
+    <string name="large_heart">том зүрх</string> 
+    <string name="widget_display">Виджет дэлгэц</string> 
+    <string name="show_hours"></string> 
+    <string name="show_date_and_time">Огноо, цагийг харуулах</string> 
+    <string name="show_hours">Харуулах цаг</string> 
+ </resources>

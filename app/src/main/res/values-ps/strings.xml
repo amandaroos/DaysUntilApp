@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">تر هغې پورې</string> 
+    <string name="hours">ساعتونه</string> 
+    <string name="minutes">دقیقې</string> 
+    <string name="seconds">ثانیې</string> 
+    <string name="until">تر</string> 
+    <string name="days">ورځې</string> 
+    <string name="day"></string> 
+    <string name="hour">ساعت</string> 
+    <string name="minute">دقیقه</string> 
+    <string name="second">دوهم</string> 
+    <string name="settings">امستنې</string> 
+    <string name="donate">مرسته وکړه</string> 
+    <string name="upgrade">تازه کول</string> 
+    <string name="rate">کچه</string> 
+    <string name="action_donate">د پراختیا کونکي سره مرسته وکړئ</string> 
+    <string name="donate_greeting">سلام!</string> 
+    <string name="donate_message">زما نوم امندا دی</string> 
+    <string name="donate_message2">که تاسو د دې اپلیکیشن څخه خوند اخلئ ما رامینځته کړی، مهرباني وکړئ زما د مرستې ایپ پیرودلو ته پام وکړئ</string> 
+    <string name="donate_message3">د مرستې ایپ هیڅ نه کوي، مګر ستاسو مرسته به ماته وښایاست چې زما وخت ساده رامینځته کیږي، د هیڅ اعلان ایپس تعریف شوی</string> 
+    <string name="donate_thanks"></string> 
+    <string name="small"></string> 
+    <string name="medium"></string> 
+    <string name="large"></string> 
+    <string name="small">کوچنی</string> 
+    <string name="medium">متوسط</string> 
+    <string name="large">لوی</string> 
+    <string name="small_heart">وړه زړه</string> 
+    <string name="medium_heart">متوسط زړه</string> 
+    <string name="large_heart">لوی زړه</string> 
+    <string name="widget_display">د کاروونې نندارتون</string> 
+    <string name="show_hours"></string> 
+    <string name="show_date_and_time">نیټه او وخت وښایاست</string> 
+    <string name="show_hours">ساعتونه وښایاست</string> 
+ </resources>

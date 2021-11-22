@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">दिन सम्म</string> 
+    <string name="hours">घण्टा</string> 
+    <string name="minutes">मिनेट</string> 
+    <string name="seconds">सेकेन्ड</string> 
+    <string name="until">सम्म</string> 
+    <string name="days">दिन</string> 
+    <string name="day"></string> 
+    <string name="hour">घण्टा</string> 
+    <string name="minute">मिनेट</string> 
+    <string name="second">सेकन्ड</string> 
+    <string name="settings">बतंग</string> 
+    <string name="donate">दान दिनु</string> 
+    <string name="upgrade">अपग्रेड गर्नुहोस्</string> 
+    <string name="rate">हिसाव</string> 
+    <string name="action_donate">विकासकर्तामा दान गर्नुहोस्</string> 
+    <string name="donate_greeting">नमस्कार!</string> 
+    <string name="donate_message">मेरो नाम अमान्डा हो</string> 
+    <string name="donate_message2">यदि तपाईं यस अनुप्रयोगको आनन्द लिइरहनुभएको छ भने म विकसित छु, कृपया मेरो दान अनुप्रयोग खरीद गर्नुहोस्</string> 
+    <string name="donate_message3">दान अनुप्रयोगले केहि गर्दैन, तर तपाईंको दानले मलाई देखाउँदछ कि मेरो समयले सरल, नो-एडीएस अनुप्रयोगहरूको सराहना गरेको छ</string> 
+    <string name="donate_thanks"></string> 
+    <string name="small"></string> 
+    <string name="medium"></string> 
+    <string name="large"></string> 
+    <string name="small">सानो</string> 
+    <string name="medium">माध्यम</string> 
+    <string name="large">ठूलो</string> 
+    <string name="small_heart">सानो मुटु</string> 
+    <string name="medium_heart">मध्यम मुटु</string> 
+    <string name="large_heart">ठुलो हृदय</string> 
+    <string name="widget_display">विजेट प्रदर्शन</string> 
+    <string name="show_hours"></string> 
+    <string name="show_date_and_time">मिति र समय देखाउनुहोस्</string> 
+    <string name="show_hours">घण्टा देखाऊ</string> 
+ </resources>

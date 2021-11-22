@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">Dager til</string> 
+    <string name="hours">Timer</string> 
+    <string name="minutes">Minutter</string> 
+    <string name="seconds">Sekunder</string> 
+    <string name="until">Før</string> 
+    <string name="days">Dager</string> 
+    <string name="day"></string> 
+    <string name="hour">Time</string> 
+    <string name="minute">Minutt</string> 
+    <string name="second">Sekund</string> 
+    <string name="settings">Innstillinger</string> 
+    <string name="donate">Donere</string> 
+    <string name="upgrade">Oppgradering</string> 
+    <string name="rate">Vurdere</string> 
+    <string name="action_donate">Doner til utvikler</string> 
+    <string name="donate_greeting">Hallo!</string> 
+    <string name="donate_message">Mitt navn er Amanda</string> 
+    <string name="donate_message2">Hvis du nyter denne appen jeg utviklet, vennligst vurder å kjøpe min donasjonsapp</string> 
+    <string name="donate_message3">Donasjonsappen gjør ikke noe, men donasjonen din vil vise meg at min tid brukt til å utvikle enkle, ikke-annonser apps er verdsatt</string> 
+    <string name="donate_thanks"></string> 
+    <string name="small"></string> 
+    <string name="medium"></string> 
+    <string name="large"></string> 
+    <string name="small">Liten</string> 
+    <string name="medium">Medium</string> 
+    <string name="large">Stor</string> 
+    <string name="small_heart">lite hjerte</string> 
+    <string name="medium_heart">middels hjerte</string> 
+    <string name="large_heart">Stort hjerte</string> 
+    <string name="widget_display">Widgetvisning</string> 
+    <string name="show_hours"></string> 
+    <string name="show_date_and_time">Vis dato og klokkeslett</string> 
+    <string name="show_hours">Vis timer</string> 
+ </resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">Matsatsi ho fihlela</string> 
+    <string name="hours">Lihora</string> 
+    <string name="minutes">Metsotso</string> 
+    <string name="seconds">Metsotsoana</string> 
+    <string name="until">Ho fihlela</string> 
+    <string name="days">Matsatsi</string> 
+    <string name="day"></string> 
+    <string name="hour">Hora</string> 
+    <string name="minute">Motsotso</string> 
+    <string name="second">Ea bobeli</string> 
+    <string name="settings">Litlhophiso</string> 
+    <string name="donate">Donate</string> 
+    <string name="upgrade">Ntlafatsa</string> 
+    <string name="rate">Rate</string> 
+    <string name="action_donate">Fana ka moetsi</string> 
+    <string name="donate_greeting">Lumela!</string> 
+    <string name="donate_message">Lebitso la ka ke amanda</string> 
+    <string name="donate_message2">Haeba u natefeloa ke sesebelisoa sena, ka kopo nahana ka ho reka app ea ka ea monehelo</string> 
+    <string name="donate_message3">Sesebelisoa sa monehelo ha se etse letho, empa monehelo oa hau o tla mpontša hore nako ea ka e sebelisoang ho ba le lisebelisoa tse bonolo, tse sa ananeloang li ananeloa</string> 
+    <string name="donate_thanks"></string> 
+    <string name="small"></string> 
+    <string name="medium"></string> 
+    <string name="large"></string> 
+    <string name="small">Nyane</string> 
+    <string name="medium">Metsi a mahareng</string> 
+    <string name="large">Kholo</string> 
+    <string name="small_heart">pelo e nyane</string> 
+    <string name="medium_heart">pelo e mahareng</string> 
+    <string name="large_heart">pelo e kholo</string> 
+    <string name="widget_display">Pontsha</string> 
+    <string name="show_hours"></string> 
+    <string name="show_date_and_time">Bontša letsatsi le nako</string> 
+    <string name="show_hours">Bonts\'a lihora</string> 
+ </resources>

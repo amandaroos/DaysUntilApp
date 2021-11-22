@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">ရက်ပေါင်းများစွာ</string> 
+    <string name="hours">နာရီ</string> 
+    <string name="minutes">မိနစ်များ</string> 
+    <string name="seconds">စက္ကန့်</string> 
+    <string name="until">မတိုင်မီ</string> 
+    <string name="days">ရက်များ</string> 
+    <string name="day">နေ့</string>
+    <string name="hour">နာရီ</string> 
+    <string name="minute">မိနစ်</string> 
+    <string name="second">စက္ဏန့်</string> 
+    <string name="settings">ဆက်တင်များ</string> 
+    <string name="donate">ပေးကမ်း</string> 
+    <string name="upgrade">အဆင့်မြှင့်တင်</string> 
+    <string name="rate">စြေး</string> 
+    <string name="action_donate">developer မှလှူဒါန်းပါ</string> 
+    <string name="donate_greeting">မင်္ဂလာပါ!</string> 
+    <string name="donate_message">ကျွန်တော့်နာမည် Amanda ဖြစ်ပါတယ်</string> 
+    <string name="donate_message2">အကယ်. သင်သည်ဤအက်ပလီကေးရှင်းကိုကျွန်ုပ်ခံစားခဲ့ရပါကကျွန်ုပ်၏လှူဒါန်းမှုအက်ပ်ကို 0 ယ်ယူရန်စဉ်းစားပါ</string> 
+    <string name="donate_message3">လှူဒါန်းမှုအက်ပ်သည်ဘာမှမလုပ်ပါ, သို့သော်သင်၏လှူဒါန်းမှုသည်ကျွန်ုပ်၏အချိန်ကိုရိုးရိုးရှင်းရှင်းတီထွင်ခဲ့သည်,</string> 
+    <string name="donate_thanks">ကျေးဇူးတင်ပါတယ်!</string>
+    <string name="small">သေးငယ်သော</string> 
+    <string name="medium">အလယ်အလတ်</string> 
+    <string name="large">ကြီးကျယ်သော</string> 
+    <string name="small_heart">နှလုံးသေးသေးလေး</string> 
+    <string name="medium_heart">အလယ်အလတ်</string> 
+    <string name="large_heart">နှလုံးသား</string> 
+    <string name="widget_display">ဝစ်ဂျက်ပြသ</string>
+    <string name="show_date_and_time">နေ့စွဲနှင့်အချိန်ကိုပြပါ</string> 
+    <string name="show_hours">နာရီပြပါ</string> 
+ </resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">দিন পর্যন্ত</string> 
+    <string name="hours">ঘন্টার</string> 
+    <string name="minutes">মিনিট</string> 
+    <string name="seconds">সেকেন্ড</string> 
+    <string name="until">পর্যন্ত পর্যন্ত</string> 
+    <string name="days">দিন</string> 
+    <string name="day">দিন</string> 
+    <string name="hour">ঘন্টা</string> 
+    <string name="minute">মিনিট</string> 
+    <string name="second">দ্বিতীয়</string> 
+    <string name="settings">সেটিংস</string> 
+    <string name="donate">দান করুন</string> 
+    <string name="upgrade">আপগ্রেড</string> 
+    <string name="rate">রেট</string> 
+    <string name="action_donate">বিকাশকারী দান করুন</string> 
+    <string name="donate_greeting">হ্যালো!</string> 
+    <string name="donate_message">আমার নাম আমেন্ডা</string> 
+    <string name="donate_message2">আপনি যদি এই অ্যাপ্লিকেশনটি উপভোগ করছেন তবে আমি আমার দান অ্যাপ্লিকেশনটি কেনার কথা বিবেচনা করি</string> 
+    <string name="donate_message3">দান অ্যাপ্লিকেশনটি কিছু করে না, তবে আপনার দান আমাকে দেখাবে যে আমার সময়টি সহজে বিকাশ করছে, কোনও বিজ্ঞাপন অ্যাপ্লিকেশানগুলি প্রশংসা করা হয়</string> 
+    <string name="donate_thanks">ধন্যবাদ!</string> 
+    <string name="small">ছোট</string> 
+    <string name="medium">মধ্যম</string> 
+    <string name="large">বড়</string> 
+    <string name="small_heart">ছোট হৃদয়</string> 
+    <string name="medium_heart">মাঝারি হৃদয়</string>
+    <string name="large_heart">বড় হৃদয়</string> 
+    <string name="widget_display">উইজেট প্রদর্শন</string> 
+    <string name="show_hours">শো ঘন্টা</string> 
+    <string name="show_date_and_time">তারিখ এবং সময় প্রদর্শন করুন</string> 
+ </resources>

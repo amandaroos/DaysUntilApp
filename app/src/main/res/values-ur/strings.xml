@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">دن تک</string> 
+    <string name="hours">گھنٹے</string> 
+    <string name="minutes">منٹ</string> 
+    <string name="seconds">سیکنڈ</string> 
+    <string name="until">تک</string> 
+    <string name="days">دن</string> 
+    <string name="day"></string> 
+    <string name="hour">گھنٹہ</string> 
+    <string name="minute">منٹ</string> 
+    <string name="second">دوسرا</string> 
+    <string name="settings">ترتیبات</string> 
+    <string name="donate">عطیہ</string> 
+    <string name="upgrade">اپ گریڈ</string> 
+    <string name="rate">شرح</string> 
+    <string name="action_donate">ڈویلپر کے لئے عطیہ</string> 
+    <string name="donate_greeting">ہیلو!</string> 
+    <string name="donate_message">میرا نام آمندا ہے</string> 
+    <string name="donate_message2">اگر آپ اس اپلی کیشن سے لطف اندوز ہو رہے ہیں تو میں نے اپنے عطیہ ایپ کی خریداری پر غور کریں</string> 
+    <string name="donate_message3">عطیہ ایپ کچھ بھی نہیں کرتا، لیکن آپ کا عطیہ مجھے دکھایا جائے گا کہ میرا وقت آسان ہے، کوئی اشتھارات اطلاقات کی تعریف کی جاتی ہے</string> 
+    <string name="donate_thanks"></string> 
+    <string name="small"></string> 
+    <string name="medium"></string> 
+    <string name="large"></string> 
+    <string name="small">چھوٹے</string> 
+    <string name="medium">درمیانی</string> 
+    <string name="large">بڑے</string> 
+    <string name="small_heart">چھوٹے دل</string> 
+    <string name="medium_heart">درمیانی دل</string> 
+    <string name="large_heart">بڑے دل</string> 
+    <string name="widget_display">ویجیٹ ڈسپلے</string> 
+    <string name="show_hours"></string> 
+    <string name="show_date_and_time">تاریخ اور وقت دکھائیں</string> 
+    <string name="show_hours">گھنٹے دکھائیں</string> 
+ </resources>

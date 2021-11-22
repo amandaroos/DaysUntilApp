@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">Dies Fins A</string>
+    <string name="hours">Hores</string> 
+    <string name="minutes">Ataca</string> 
+    <string name="seconds">Segons segons</string> 
+    <string name="until">Fins</string> 
+    <string name="days">Dies</string> 
+    <string name="day">Dia</string> 
+    <string name="hour">Hores</string> 
+    <string name="minute">Petit</string> 
+    <string name="second">Segon</string> 
+    <string name="settings">Parada</string> 
+    <string name="donate">Donar</string> 
+    <string name="upgrade">Actualitzar</string> 
+    <string name="rate">Preu</string> 
+    <string name="action_donate">Doneu al Desenvolupador</string>
+    <string name="donate_greeting">Hola!</string> 
+    <string name="donate_message">Em dic Amanda</string> 
+    <string name="donate_message2">Si esteu gaudint d\'aquesta aplicació he desenvolupat, considereu la compra de la meva aplicació de donació</string> 
+    <string name="donate_message3">L\'aplicació de donació no fa res, però la vostra donació em mostrarà que el meu temps dedicat a desenvolupar aplicacions senzilles i sense anuncis és apreciada</string> 
+    <string name="donate_thanks">Gràcies!</string> 
+    <string name="small">Petit</string> 
+    <string name="medium">Mitjana</string> 
+    <string name="large">Gran</string> 
+    <string name="small_heart">cor petit</string> 
+    <string name="medium_heart">cor mitjà</string>
+    <string name="large_heart">gran cor</string> 
+    <string name="widget_display">Visualització del Widget</string>
+    <string name="show_hours">Mostra Hores</string>
+    <string name="show_date_and_time">Mostra la Data i L\'hora</string>
+ </resources>

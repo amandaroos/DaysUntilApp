@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">Dinten dugi ka</string> 
+    <string name="hours">Jam</string> 
+    <string name="minutes">Menit</string> 
+    <string name="seconds">Detik</string> 
+    <string name="until">Nepi ka</string> 
+    <string name="days">Poé</string> 
+    <string name="day"></string> 
+    <string name="hour">Jam</string> 
+    <string name="minute">Menit</string> 
+    <string name="second">Kadua</string> 
+    <string name="settings">Setelan</string> 
+    <string name="donate">Nulungan</string> 
+    <string name="upgrade">Nerihkeun</string> 
+    <string name="rate">Meunteun</string> 
+    <string name="action_donate">Sumbang kanggo pamekar</string> 
+    <string name="donate_greeting">Halo!</string> 
+    <string name="donate_message">Nami abdi Amanda</string> 
+    <string name="donate_message2">Upami anjeun resep aplikasi ieu kuring dikembangkeun, punten memang mésér aplikasi sumbangan kuring</string> 
+    <string name="donate_message3">Aplikasi sumbangan henteu ngalakukeun nanaon, tapi sumbangan anjeun bakal nunjukkeun yén waktos kuring nyéépkeun waktos anu sederhana, aplikasi henteu diperhormat</string> 
+    <string name="donate_thanks"></string> 
+    <string name="small"></string> 
+    <string name="medium"></string> 
+    <string name="large"></string> 
+    <string name="small">Leutik</string> 
+    <string name="medium">Sedeng</string> 
+    <string name="large">Gede</string> 
+    <string name="small_heart">jantung leutik</string> 
+    <string name="medium_heart">haténa sedeng</string> 
+    <string name="large_heart">jantung</string> 
+    <string name="widget_display">Tingal tunggang</string> 
+    <string name="show_hours"></string> 
+    <string name="show_date_and_time">Tampilkeun tanggal sareng waktos</string> 
+    <string name="show_hours">Tampilkeun jam</string> 
+ </resources>

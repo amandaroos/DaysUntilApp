@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">天直到</string> 
+    <string name="hours">小时</string> 
+    <string name="minutes">分钟</string> 
+    <string name="seconds">秒</string> 
+    <string name="until">直到</string> 
+    <string name="days">天</string> 
+    <string name="day">日</string>
+    <string name="hour">小时</string> 
+    <string name="minute">分钟</string> 
+    <string name="second">第二</string> 
+    <string name="settings">设置</string> 
+    <string name="donate">捐</string> 
+    <string name="upgrade">升级</string> 
+    <string name="rate">速度</string> 
+    <string name="action_donate">捐赠给开发人员</string> 
+    <string name="donate_greeting">你好！</string> 
+    <string name="donate_message">我的名字是阿曼达</string> 
+    <string name="donate_message2">如果您正在享受我开发的这个应用程序，请考虑购买我的捐款应用程序</string> 
+    <string name="donate_message3">捐款应用程序没有做任何事情，但是你的捐款将显示我的时间花在开发简单的时间，禁令应用程序被欣赏</string> 
+    <string name="donate_thanks">谢谢！</string>
+    <string name="small">小的</string> 
+    <string name="medium">中等的</string> 
+    <string name="large">大的</string> 
+    <string name="small_heart">小心</string> 
+    <string name="medium_heart">中心</string> 
+    <string name="large_heart">大心</string> 
+    <string name="widget_display">小部件显示</string>
+    <string name="show_date_and_time">显示日期和时间</string> 
+    <string name="show_hours">显示小时</string> 
+ </resources>

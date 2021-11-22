@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">Tagoj ĝis</string> 
+    <string name="hours">Horoj</string> 
+    <string name="minutes">Minutoj</string> 
+    <string name="seconds">Sekundoj</string> 
+    <string name="until">Ĝis</string> 
+    <string name="days">Tagoj</string> 
+    <string name="day"></string> 
+    <string name="hour">Horo</string> 
+    <string name="minute">Minuto</string> 
+    <string name="second">Dua</string> 
+    <string name="settings">Agordoj</string> 
+    <string name="donate">Doni</string> 
+    <string name="upgrade">Altgradigon</string> 
+    <string name="rate">Taksu</string> 
+    <string name="action_donate">Donacu al programisto</string> 
+    <string name="donate_greeting">Saluton!</string> 
+    <string name="donate_message">Mia nomo estas Amanda</string> 
+    <string name="donate_message2">Se vi ĝuas ĉi tiun programon, mi disvolvis, bonvolu pripensi aĉetadon de mia donaco</string> 
+    <string name="donate_message3">La donaca programo ne faras ion ajn, sed via donaco montros al mi, ke mia tempo pasigita evoluantaj simplaj, ne-anoncoj apps estas estimataj</string> 
+    <string name="donate_thanks">Dankon!</string> 
+    <string name="small"></string> 
+    <string name="medium"></string> 
+    <string name="large"></string> 
+    <string name="small">Malgranda</string> 
+    <string name="medium">Meza</string> 
+    <string name="large">Granda</string> 
+    <string name="small_heart">Malgranda Koro</string> 
+    <string name="medium_heart">meza koro</string> 
+    <string name="large_heart">Granda Koro</string> 
+    <string name="widget_display">Fenestraĵa ekrano</string> 
+    <string name="show_hours"></string> 
+    <string name="show_date_and_time">Montri daton kaj horon</string> 
+    <string name="show_hours">Montru horojn</string> 
+ </resources>

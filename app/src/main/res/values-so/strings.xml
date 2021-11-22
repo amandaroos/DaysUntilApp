@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">Maalmood ilaa</string> 
+    <string name="hours">Saacadood</string> 
+    <string name="minutes">Daqiiqo</string> 
+    <string name="seconds">Sekan</string> 
+    <string name="until">Ilaa</string> 
+    <string name="days">Maalmood</string> 
+    <string name="day"></string> 
+    <string name="hour">Saacad</string> 
+    <string name="minute">Daqiiqad</string> 
+    <string name="second">Labaad</string> 
+    <string name="settings">Dejinta</string> 
+    <string name="donate">Ku tabarrucid</string> 
+    <string name="upgrade">Casrin</string> 
+    <string name="rate">Sicir</string> 
+    <string name="action_donate">Ku tabaruc horumarinta</string> 
+    <string name="donate_greeting">Salaan!</string> 
+    <string name="donate_message">Magacaygu waa Amanda</string> 
+    <string name="donate_message2">Haddii aad ku raaxeysatid barnaamijkan waxaan soo saaray, fadlan ka fiirso iibsashada barnaamijkeyga deeqda</string> 
+    <string name="donate_message3">Barnaamijka tabaruca waxba ma qabanayo, laakiin tabarucaada ayaa i tusi doona in waqtigeyga ku qaatay in la yeesho sahlanaanta, barnaamijyada xayeysiinta ah ee aan lagu mahadcelineyn</string> 
+    <string name="donate_thanks"></string> 
+    <string name="small"></string> 
+    <string name="medium"></string> 
+    <string name="large"></string> 
+    <string name="small">Yar</string> 
+    <string name="medium">Heer dhexe ah</string> 
+    <string name="large">Weyn</string> 
+    <string name="small_heart">wadnaha yar</string> 
+    <string name="medium_heart">wadne dhexdhexaad ah</string> 
+    <string name="large_heart">wadnaha weyn</string> 
+    <string name="widget_display">Bandhigga Widtt</string> 
+    <string name="show_hours"></string> 
+    <string name="show_date_and_time">Tus taariikhda iyo waqtiga</string> 
+    <string name="show_hours">Saddex saacadood</string> 
+ </resources>

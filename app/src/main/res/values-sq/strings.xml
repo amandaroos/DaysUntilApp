@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">Ditë Deri</string>
+    <string name="hours">Orë</string> 
+    <string name="minutes">Procesverbal</string> 
+    <string name="seconds">Sekonda</string>
+    <string name="until">Deri</string> 
+    <string name="days">Ditë</string> 
+    <string name="day">Dita</string>
+    <string name="hour">Orë</string> 
+    <string name="minute">Minutë</string> 
+    <string name="second">Sekondë</string>
+    <string name="settings">Parametrat</string> 
+    <string name="donate">Dhuroj</string> 
+    <string name="upgrade">Përmirësoj</string> 
+    <string name="rate">Normë</string> 
+    <string name="action_donate">Dhuroni për Zhvilluesin</string>
+    <string name="donate_greeting">Përshëndetje!</string> 
+    <string name="donate_message">Emri im është Amanda</string> 
+    <string name="donate_message2">Nëse jeni duke shijuar këtë aplikacion unë zhvillova, ju lutem konsideroni blerjen e aplikacionit tim të donacionit</string> 
+    <string name="donate_message3">Aplikacioni i dhurimit nuk bën asgjë, por donacioni juaj do të më tregojë se koha ime e kaluar në zhvillimin e aplikacioneve të thjeshta, no-reklama vlerësohet</string> 
+    <string name="donate_thanks">Faleminderit!</string>
+    <string name="small"></string> 
+    <string name="medium"></string> 
+    <string name="large"></string> 
+    <string name="small">I vogël</string> 
+    <string name="medium">Medium</string> 
+    <string name="large">I madh</string> 
+    <string name="small_heart">zemra e vogël</string> 
+    <string name="medium_heart">zemra e mesme</string> 
+    <string name="large_heart">zemra e madhe</string> 
+    <string name="widget_display">Shfaqje Widget</string>
+    <string name="show_hours">Trego Orët</string>
+    <string name="show_date_and_time">Trego Datën dhe Kohën</string>
+    <string name="show_hours">Trego rët</string>
+ </resources>

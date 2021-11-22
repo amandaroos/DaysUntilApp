@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">Dae Tot</string>
+    <string name="hours">Ure</string> 
+    <string name="minutes">Minute</string> 
+    <string name="seconds">Sekondes</string> 
+    <string name="until">Totdat</string> 
+    <string name="days">Dae</string> 
+    <string name="day">Dag</string> 
+    <string name="hour">Uur</string> 
+    <string name="minute">Klein</string> 
+    <string name="second">Tweede</string> 
+    <string name="settings">Instelling</string> 
+    <string name="donate">Skenk</string>
+    <string name="upgrade">Opgradering</string> 
+    <string name="rate">Koers</string> 
+    <string name="action_donate">Skenk aan Ontwikkelaar</string>
+    <string name="donate_greeting">Hallo!</string> 
+    <string name="donate_message">My naam is Amanda</string> 
+    <string name="donate_message2">As u hierdie program geniet wat ek ontwikkel het, oorweeg dit asseblief om my skenkingprogram te koop</string> 
+    <string name="donate_message3">Die donasie-program doen niks nie, maar jou skenking sal my wys dat my tyd spandeer om eenvoudige te ontwikkel, nie-advertensies word waardeer</string> 
+    <string name="donate_thanks">Dankie!</string> 
+    <string name="small">Klein</string> 
+    <string name="medium">Medium</string> 
+    <string name="large">Groot</string> 
+    <string name="small_heart">klein hartjie</string>
+    <string name="medium_heart">medium hart</string> 
+    <string name="large_heart">groot hart</string> 
+    <string name="widget_display">Widget Ertoon</string>
+    <string name="show_hours">Wys Re</string>
+    <string name="show_date_and_time">Wys Atum en Tyd</string>
+ </resources>

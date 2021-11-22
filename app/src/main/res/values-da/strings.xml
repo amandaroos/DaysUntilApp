@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">Dage Til</string>
+    <string name="hours">Timer</string> 
+    <string name="minutes">Minutter</string> 
+    <string name="seconds">Sekunder</string> 
+    <string name="until">Så længe</string> 
+    <string name="days">Dage</string> 
+    <string name="day">Dag</string>
+    <string name="hour">Time</string> 
+    <string name="minute">Minut</string> 
+    <string name="second">Sekund</string> 
+    <string name="settings">Indstillinger</string>
+    <string name="donate">Donate</string>
+    <string name="upgrade">Opgradering</string> 
+    <string name="rate">Sats</string> 
+    <string name="action_donate">Donere til Udvikler.</string>
+    <string name="donate_greeting">Hej!</string> 
+    <string name="donate_message">Mit navn er Amanda</string> 
+    <string name="donate_message2">Hvis du nyder denne app, udviklede jeg, bedes du overveje at købe min donation app</string> 
+    <string name="donate_message3">Donation app gør ikke noget, men din donation vil vise mig, at min tid brugt til at udvikle enkle, no-ads apps er værdsat</string> 
+    <string name="donate_thanks">Tak!</string>
+    <string name="small">Lille</string> 
+    <string name="medium">Medium</string> 
+    <string name="large">Stor</string> 
+    <string name="small_heart">Lille hjerte</string> 
+    <string name="medium_heart">mellemstore hjerte</string> 
+    <string name="large_heart">stort hjerte</string> 
+    <string name="widget_display">Widget Display</string>
+    <string name="show_hours">Vis Timer</string>
+    <string name="show_date_and_time">Vis Dato og Klokkeslæt</string>
+ </resources>

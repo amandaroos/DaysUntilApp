@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">ڏينهن تائين</string> 
+    <string name="hours">ڪلاڪ</string> 
+    <string name="minutes">منٽ</string> 
+    <string name="seconds">سيڪنڊ</string> 
+    <string name="until">تيپائڻ</string> 
+    <string name="days">ڏينهن</string> 
+    <string name="day"></string> 
+    <string name="hour">ڪلاڪ</string> 
+    <string name="minute">منٽ</string> 
+    <string name="second">ٻيون</string> 
+    <string name="settings">سيٽنگ</string> 
+    <string name="donate">عطيو ڏيو</string> 
+    <string name="upgrade">اپڊيٽ ڪيو</string> 
+    <string name="rate">وايو وئي</string> 
+    <string name="action_donate">ڊولپر کي عطيو ڏيو</string> 
+    <string name="donate_greeting">هيلو!</string> 
+    <string name="donate_message">منهنجو نالو امينڊا آهي</string> 
+    <string name="donate_message2">جيڪڏهن توهان هن ايپ مان لطف اندوز ٿي رهيا آهيو ته آئون ترقي ڪئي، مهرباني ڪري منهنجي امداد واري ايپ خريد ڪرڻ تي غور ڪيو</string> 
+    <string name="donate_message3">عطيا ايپ ڪجهه به نه ڪندو آهي، پر توهان جو عطيو مون کي ڏيکاريندو ته منهنجو وقت سادو آهي، نه هڪ اشتهار ائپس کي ساراهيو ويندو آهي</string> 
+    <string name="donate_thanks"></string> 
+    <string name="small"></string> 
+    <string name="medium"></string> 
+    <string name="large"></string> 
+    <string name="small">نن small و</string> 
+    <string name="medium">وچب</string> 
+    <string name="large">وڏو</string> 
+    <string name="small_heart">ننڍو تحفو</string> 
+    <string name="medium_heart">وچاري چا</string> 
+    <string name="large_heart">وڏي دل</string> 
+    <string name="widget_display">وجيٽ ڊسپلي</string> 
+    <string name="show_hours"></string> 
+    <string name="show_date_and_time">تاريخ ۽ وقت</string> 
+    <string name="show_hours">ڪلاڪ ڏسو</string> 
+ </resources>

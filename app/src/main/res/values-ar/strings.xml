@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">أيام حتى</string> 
+    <string name="hours">ساعات</string> 
+    <string name="minutes">الدقائق</string> 
+    <string name="seconds">ثواني</string> 
+    <string name="until">حتى</string> 
+    <string name="days">أيام</string> 
+    <string name="day">يوم</string> 
+    <string name="hour">ساعة</string> 
+    <string name="minute">دقيقة</string> 
+    <string name="second">ثانيا</string> 
+    <string name="settings">إعدادات</string> 
+    <string name="donate">يتبرع</string> 
+    <string name="upgrade">تطوير</string> 
+    <string name="rate">معدل</string> 
+    <string name="action_donate">تبرع للمطور</string> 
+    <string name="donate_greeting">أهلا!</string> 
+    <string name="donate_message">اسمي أماندا</string> 
+    <string name="donate_message2">إذا كنت تستمتع بهذا التطبيق، فقد أعتبر شراء تطبيق تبرعي</string> 
+    <string name="donate_message3">لا يفعل تطبيق التبرع أي شيء، لكن تبرعك سيظهر لي أن وقتك الذي قضيته في تطوير تطبيقات بسيطة ولا الإعلانات موضع تقدير</string> 
+    <string name="donate_thanks">شكرا!</string> 
+    <string name="small">صغير</string> 
+    <string name="medium">واسطة</string> 
+    <string name="large">كبير</string> 
+    <string name="small_heart">القلب الصغيرة</string> 
+    <string name="medium_heart">قلب متوسط</string>
+    <string name="large_heart">القلب الكبير</string> 
+    <string name="widget_display">عرض القطعة</string> 
+    <string name="show_hours">عرض ساعات العمل</string> 
+    <string name="show_date_and_time">تظهر التاريخ والوقت</string> 
+ </resources>

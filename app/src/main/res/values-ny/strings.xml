@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">Masiku Mpaka</string>
+    <string name="hours">Maola</string> 
+    <string name="minutes">Mphindi</string> 
+    <string name="seconds">Masekondi</string> 
+    <string name="until">Mpaka</string> 
+    <string name="days">Masiku</string> 
+    <string name="day">Tsiku</string>
+    <string name="hour">Ola</string> 
+    <string name="minute">Mphindi</string> 
+    <string name="second">Wachiwiri</string> 
+    <string name="settings">Makonzedwe</string> 
+    <string name="donate">Peleka</string> 
+    <string name="upgrade">Makwelero</string> 
+    <string name="rate">Mtengo</string> 
+    <string name="action_donate">Perekani Zopanga</string>
+    <string name="donate_greeting">Moni!</string> 
+    <string name="donate_message">Dzina langa ndi Amanda</string> 
+    <string name="donate_message2">Ngati mukusangalala ndi pulogalamuyi ndidakula, chonde onani kugula pulogalamu yanga yopereka</string> 
+    <string name="donate_message3">Pulogalamu yopereka siyichita chilichonse, koma zopereka zanu zimandiwonetsa kuti nthawi yanga yakhala ndikupanga mapulogalamu osavuta, osayamikiridwa</string> 
+    <string name="donate_thanks">Zikomo!</string>
+    <string name="small">Ochepa</string> 
+    <string name="medium">Wapakati</string> 
+    <string name="large">Chachikulu</string> 
+    <string name="small_heart">Mtima Wocheperako</string> 
+    <string name="medium_heart">Mitima yapakatikati</string> 
+    <string name="large_heart">mphamvu yayikulu</string> 
+    <string name="widget_display">Chiwonetsero cha Widget</string> 
+    <string name="show_hours">Onetsani Maola</string>
+    <string name="show_date_and_time">Sonyezani Tsiku ndi Nthawi</string>
+
+ </resources>

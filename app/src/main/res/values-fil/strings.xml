@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">Mga araw hanggang</string> 
+    <string name="hours">Oras</string> 
+    <string name="minutes">Minuto</string> 
+    <string name="seconds">Segundo</string> 
+    <string name="until">Hanggang</string> 
+    <string name="days">Araw</string> 
+    <string name="day"></string> 
+    <string name="hour">Oras</string> 
+    <string name="minute">Minuto</string> 
+    <string name="second">Pangalawa</string> 
+    <string name="settings">Mga setting</string> 
+    <string name="donate">Donate.</string> 
+    <string name="upgrade">Mag-upgrade</string> 
+    <string name="rate">Rate.</string> 
+    <string name="action_donate">Mag-donate sa developer.</string> 
+    <string name="donate_greeting">Kamusta!</string> 
+    <string name="donate_message">Ang pangalan ko ay Amanda.</string> 
+    <string name="donate_message2">Kung tinatangkilik mo ang app na ito na binuo ko, mangyaring isaalang-alang ang pagbili ng aking donasyon app</string> 
+    <string name="donate_message3">Ang donasyon app ay hindi gumawa ng anumang bagay, ngunit ang iyong donasyon ay magpapakita sa akin na ang aking oras na ginugol sa pagbuo ng simple, walang ads apps ay appreciated</string> 
+    <string name="donate_thanks"></string> 
+    <string name="small"></string> 
+    <string name="medium"></string> 
+    <string name="large"></string> 
+    <string name="small">Maliit</string> 
+    <string name="medium">Daluyan</string> 
+    <string name="large">Malaki</string> 
+    <string name="small_heart">maliit na puso</string> 
+    <string name="medium_heart">Katamtamang puso</string> 
+    <string name="large_heart">Malaking puso</string> 
+    <string name="widget_display">Display ng widget.</string> 
+    <string name="show_hours"></string> 
+    <string name="show_date_and_time">Ipakita ang petsa at oras</string> 
+    <string name="show_hours">Ipakita ang mga oras</string> 
+ </resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">వరకు రోజులు</string> 
+    <string name="hours">గంటలు</string> 
+    <string name="minutes">నిమిషాలు</string> 
+    <string name="seconds">సెకన్లు</string> 
+    <string name="until">వరకు</string> 
+    <string name="days">రోజులు</string> 
+    <string name="day"></string> 
+    <string name="hour">గంట</string> 
+    <string name="minute">నిమిషం</string> 
+    <string name="second">రెండవ</string> 
+    <string name="settings">సెట్టింగులు</string> 
+    <string name="donate">దానం</string> 
+    <string name="upgrade">అప్గ్రేడ్</string> 
+    <string name="rate">రేటు</string> 
+    <string name="action_donate">డెవలపర్ కు దానం</string> 
+    <string name="donate_greeting">హలో!</string> 
+    <string name="donate_message">నా పేరు అమండా</string> 
+    <string name="donate_message2">మీరు ఈ అనువర్తనాన్ని నేను అభివృద్ధి చేస్తున్నట్లయితే, దయచేసి నా విరాళం అనువర్తనాన్ని కొనుగోలు చేయండి</string> 
+    <string name="donate_message3">విరాళం అనువర్తనం ఏమీ చేయదు, కానీ మీ విరాళం నా సమయాన్ని సులభతరం చేయడాన్ని గడపడానికి నాకు చూపుతుంది, నో-యాడ్స్ Apps ప్రశంసలు</string> 
+    <string name="donate_thanks"></string> 
+    <string name="small"></string> 
+    <string name="medium"></string> 
+    <string name="large"></string> 
+    <string name="small">చిన్నది</string> 
+    <string name="medium">మీడియం</string> 
+    <string name="large">పెద్దది</string> 
+    <string name="small_heart">చిన్న గుండె</string> 
+    <string name="medium_heart">మీడియం గుండె</string> 
+    <string name="large_heart">పెద్ద గుండె</string> 
+    <string name="widget_display">విడ్జెట్ ప్రదర్శన</string> 
+    <string name="show_hours"></string> 
+    <string name="show_date_and_time">తేదీ మరియు సమయం చూపించు</string> 
+    <string name="show_hours">గంటలు చూపించు</string> 
+ </resources>

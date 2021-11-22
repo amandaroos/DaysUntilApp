@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">Дзён да</string> 
+    <string name="hours">Гадзін</string> 
+    <string name="minutes">Хвіліны</string> 
+    <string name="seconds">Секунд</string> 
+    <string name="until">Да</string> 
+    <string name="days">Дні</string> 
+    <string name="day">Дзень</string> 
+    <string name="hour">Гадзіна</string> 
+    <string name="minute">Хвіліна</string> 
+    <string name="second">Секунда</string> 
+    <string name="settings">Налада</string> 
+    <string name="donate">Ахвяраваць</string> 
+    <string name="upgrade">Абмен</string> 
+    <string name="rate">Расцэнка</string> 
+    <string name="action_donate">Ахвяруйце распрацоўніку</string> 
+    <string name="donate_greeting">Добры дзень!</string> 
+    <string name="donate_message">Мяне клічуць Аманда</string> 
+    <string name="donate_message2">Калі вы атрымліваеце асалоду ад гэтага прыкладання я распрацаваў, калі ласка, разгледзець пытанне аб куплі майго донарства прыкладання</string> 
+    <string name="donate_message3">Дадатак ахвяраванні нічога не робіць, але ваша ахвяраванне пакажа мне, што мой час правёў развіццё простых, не-аб\'явы прыкладання ацэнены</string> 
+    <string name="donate_thanks">Дзякуй!</string> 
+    <string name="small">Маленькі</string> 
+    <string name="medium">Сярэдзіна</string> 
+    <string name="large">Вялікі</string> 
+    <string name="small_heart">невялікае сэрца</string> 
+    <string name="medium_heart">сярэдняе сэрца</string>
+    <string name="large_heart">вялікае сэрца</string> 
+    <string name="widget_display">Віджэт дысплей</string> 
+    <string name="show_hours">Паказаць гадзіны</string> 
+    <string name="show_date_and_time">Паказаць дату і час</string> 
+ </resources>

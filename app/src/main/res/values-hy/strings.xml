@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">Օրեր մինչեւ</string> 
+    <string name="hours">Ժամեր</string> 
+    <string name="minutes">Րոպե</string> 
+    <string name="seconds">Վայրկյան</string> 
+    <string name="until">Մինչեւ</string> 
+    <string name="days">Օրեր</string>
+    <string name="day">Օր</string>
+    <string name="hour">Ժամ</string> 
+    <string name="minute">Րոպե</string> 
+    <string name="second">Երկրորդ</string> 
+    <string name="settings">Կարգավորումներ</string> 
+    <string name="donate">Նվիրաբերել</string> 
+    <string name="upgrade">Արդիականացում</string> 
+    <string name="rate">Կերպարանք</string> 
+    <string name="action_donate">Նվիրաբերեք ծրագրավորողին</string> 
+    <string name="donate_greeting">Բարեւ Ձեզ!</string> 
+    <string name="donate_message">Իմ անունը Amanda է</string> 
+    <string name="donate_message2">Եթե դուք վայելում եք այս հավելվածը, որը ես մշակել եմ, խնդրում ենք հաշվի առնել իմ նվիրատվության ծրագիրը</string> 
+    <string name="donate_message3">Նվիրատվության ծրագիրը ոչինչ չի ձեռնարկում, բայց ձեր նվիրատվությունը ցույց կտա ինձ, որ իմ ժամանակը մշակելու իմ ժամանակը գնահատվում է</string> 
+    <string name="donate_thanks">Շնորհակալություն</string>
+    <string name="small">Փոքր</string> 
+    <string name="medium">Միջին</string> 
+    <string name="large">Մեծ</string> 
+    <string name="small_heart">Փոքր սիրտ</string> 
+    <string name="medium_heart">Միջին սիրտը</string> 
+    <string name="large_heart">Խոշոր սիրտ</string> 
+    <string name="widget_display">Widget ցուցադրում</string>
+    <string name="show_date_and_time">Show ուցադրել ամսաթիվը եւ ժամանակը</string> 
+    <string name="show_hours">Show ուցադրել ժամերը</string> 
+ </resources>

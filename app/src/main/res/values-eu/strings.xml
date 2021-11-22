@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">Egunak Arte</string>
+    <string name="hours">Orduak</string>
+    <string name="minutes">Minutu</string> 
+    <string name="seconds">Bizkarbete</string> 
+    <string name="until">Ra arte</string>
+    <string name="days">Egunak</string>
+    <string name="day">Eguna</string>
+    <string name="hour">Ordu</string> 
+    <string name="minute">Ñimiño</string> 
+    <string name="second">Segundu</string> 
+    <string name="settings">Ezarpen</string> 
+    <string name="donate">Eman</string> 
+    <string name="upgrade">Sartu lan</string> 
+    <string name="rate">Tarifa</string> 
+    <string name="action_donate">Dohaintzan Garatzaileari</string>
+    <string name="donate_greeting">Kaixo!</string> 
+    <string name="donate_message">Nire izena Amanda da</string> 
+    <string name="donate_message2">Aplikazio hau gozatzen ari bazara, kontuan hartu nire dohaintza aplikazioa erostea</string> 
+    <string name="donate_message3">Dohaintza aplikazioak ez du ezer egiten, baina zure dohaintzak erakutsiko dit nire denbora garatzen igarotako denbora erraza da, ez da iragarkirik gabeko aplikazioak garatzen</string> 
+    <string name="donate_thanks">Eskerrik asko!</string>
+    <string name="small">Txiki</string> 
+    <string name="medium">Bitarte</string> 
+    <string name="large">Handi</string> 
+    <string name="small_heart">bihotz txikia</string> 
+    <string name="medium_heart">Bihotz ertaina</string> 
+    <string name="large_heart">Bihotz handia</string> 
+    <string name="widget_display">Widget Pantaila</string>
+    <string name="show_date_and_time">Erakutsi Data eta Ordua</string>
+    <string name="show_hours">Erakutsi Orduak</string>
+ </resources>

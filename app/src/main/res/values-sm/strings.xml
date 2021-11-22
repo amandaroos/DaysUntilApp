@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">Aso seia</string> 
+    <string name="hours">Itula</string> 
+    <string name="minutes">Minute</string> 
+    <string name="seconds">Sekone</string> 
+    <string name="until">Seia</string> 
+    <string name="days">Aso</string> 
+    <string name="day"></string> 
+    <string name="hour">Itula</string> 
+    <string name="minute">Minute</string> 
+    <string name="second">Tulaga lua</string> 
+    <string name="settings">Tulaga</string> 
+    <string name="donate">Lafo mai</string> 
+    <string name="upgrade">Faaleleia</string> 
+    <string name="rate">Fua</string> 
+    <string name="action_donate">Tuuina atu i le tagata atiae</string> 
+    <string name="donate_greeting">Talofa!</string> 
+    <string name="donate_message">O loʻu igoa o Amanda</string> 
+    <string name="donate_message2">Afai o loʻo e fiafia i lenei app na ou atinaʻeina, faʻamolemole mafaufau o loʻo faʻatauina laʻu pepa foaʻi</string> 
+    <string name="donate_message3">E le faia se mea o le foaʻi</string> 
+    <string name="donate_thanks"></string> 
+    <string name="small"></string> 
+    <string name="medium"></string> 
+    <string name="large"></string> 
+    <string name="small">Laiti</string> 
+    <string name="medium">Feololo</string> 
+    <string name="large">Lapoa</string> 
+    <string name="small_heart">laititi le loto</string> 
+    <string name="medium_heart">feololo loto</string> 
+    <string name="large_heart">loto tele</string> 
+    <string name="widget_display">Whippy Faaali</string> 
+    <string name="show_hours"></string> 
+    <string name="show_date_and_time">Faaali le aso ma le taimi</string> 
+    <string name="show_hours">Faaali itula</string> 
+ </resources>

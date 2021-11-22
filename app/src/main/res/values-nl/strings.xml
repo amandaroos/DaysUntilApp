@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">Dagen Tot</string>
+    <string name="hours">Uren</string> 
+    <string name="minutes">Minuten</string> 
+    <string name="seconds">Seconden</string> 
+    <string name="until">Tot</string> 
+    <string name="days">Dagen</string> 
+    <string name="day">Dag</string>
+    <string name="hour">Uur</string> 
+    <string name="minute">Minuut</string> 
+    <string name="second">Tweede</string> 
+    <string name="settings">Instellingen</string> 
+    <string name="donate">Doneren</string> 
+    <string name="upgrade">Upgrade</string> 
+    <string name="rate">Tarief</string> 
+    <string name="action_donate">Doneer aan ontwikkelaar</string> 
+    <string name="donate_greeting">Hallo!</string> 
+    <string name="donate_message">Ik heet Amanda</string> 
+    <string name="donate_message2">Als u geniet van deze app die ik heb ontwikkeld, overweeg dan om mijn donatie-app te kopen</string> 
+    <string name="donate_message3">De Donation-app doet niets, maar je donatie laat me zien dat mijn tijd besteed aan het ontwikkelen van eenvoudige, geen-advertenties-apps wordt op prijs gesteld</string> 
+    <string name="donate_thanks">Bedankt!</string>
+    <string name="small">Klein</string> 
+    <string name="medium">Medium</string> 
+    <string name="large">Groot</string> 
+    <string name="small_heart">klein hart</string> 
+    <string name="medium_heart">medium</string> 
+    <string name="large_heart">groot hart</string> 
+    <string name="widget_display">Widget-display</string> 
+    <string name="show_hours">Toon Uren</string>
+    <string name="show_date_and_time">Toondatum en Tijd</string>
+ </resources>

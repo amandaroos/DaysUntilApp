@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">Дни до</string> 
+    <string name="hours">Часа</string> 
+    <string name="minutes">Минути</string> 
+    <string name="seconds">Секунди</string> 
+    <string name="until">До</string> 
+    <string name="days">Дни</string> 
+    <string name="day">Ден</string> 
+    <string name="hour">Час</string> 
+    <string name="minute">Минута.</string> 
+    <string name="second">Втори</string> 
+    <string name="settings">Настройки</string> 
+    <string name="donate">Дарение</string> 
+    <string name="upgrade">Подобряване на</string> 
+    <string name="rate">Курс</string> 
+    <string name="action_donate">Дарете на разработчика</string> 
+    <string name="donate_greeting">Здравейте!</string> 
+    <string name="donate_message">Името ми е Аманда</string> 
+    <string name="donate_message2">Ако се наслаждавате на това приложение, моля, помислете за закупуването на приложението за дарение</string> 
+    <string name="donate_message3">Приложението за дарение не прави нищо, но вашето дарение ще ми покаже, че времето ми изразява прости, без реклами, които не са оценени</string> 
+    <string name="donate_thanks">Благодаря!</string> 
+    <string name="small">Малък</string> 
+    <string name="medium">Средна</string> 
+    <string name="large">Голям</string> 
+    <string name="small_heart">малко сърце</string> 
+    <string name="medium_heart">средно сърце</string>
+    <string name="large_heart">Голямо сърце</string> 
+    <string name="widget_display">Дисплей с джаджа</string> 
+    <string name="show_hours">Показване на часове</string> 
+    <string name="show_date_and_time">Показване на дата и час</string> 
+ </resources>

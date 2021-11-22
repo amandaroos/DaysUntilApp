@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">"Ghjorni Finu À "</string>
+    <string name="hours">Ore</string> 
+    <string name="minutes">Minuti</string> 
+    <string name="seconds">Sicondi</string> 
+    <string name="until">Finu à</string> 
+    <string name="days">Ghjorni</string> 
+    <string name="day">Ghjornu</string>
+    <string name="hour">Ora</string> 
+    <string name="minute">Minutu</string> 
+    <string name="second">Sicondu</string> 
+    <string name="settings">Configurazioni</string> 
+    <string name="donate">Donate</string> 
+    <string name="upgrade">Upturazione</string> 
+    <string name="rate">Rate</string> 
+    <string name="action_donate">Donate à u Sviluppatore</string>
+    <string name="donate_greeting">Bonghjornu!</string> 
+    <string name="donate_message">Mi chjamu Amanda</string> 
+    <string name="donate_message2">Se vi piacenu sta app chì aghju sviluppatu, per piacè cunsidereghja a compra di a mo donazione</string> 
+    <string name="donate_message3">L\'app donazione ùn face nunda, ma a vostra donazione mi mostrarà chì u mo tempu dedicatu Semplice, No-AdS Ads Applicate</string> 
+    <string name="donate_thanks">Grazie!</string>
+    <string name="small">Picculu</string> 
+    <string name="medium">MEDIUM</string> 
+    <string name="large">Grande</string> 
+    <string name="small_heart">picculu core</string> 
+    <string name="medium_heart">Cori di mediu</string> 
+    <string name="large_heart">Corone Corru</string> 
+    <string name="widget_display">Display Widget</string>
+    <string name="show_date_and_time">Mostra Data è Tempu</string> 
+    <string name="show_hours">Mostra l\'ore</string> 
+ </resources>

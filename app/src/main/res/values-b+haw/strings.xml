@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?> 
+ <resources> 
+    <string name="app_name">Nā lā a hiki</string> 
+    <string name="hours">Nā hola hola</string> 
+    <string name="minutes">MAKANAKAI</string> 
+    <string name="seconds">Kekona</string> 
+    <string name="until">Pākuhi</string> 
+    <string name="days">Nā lā</string> 
+    <string name="day"></string> 
+    <string name="hour">Hola</string> 
+    <string name="minute">Minuke</string> 
+    <string name="second">Ka lua</string> 
+    <string name="settings">Nā hoʻonohonoho</string> 
+    <string name="donate">Hāʻawi</string> 
+    <string name="upgrade">Hōʻano</string> 
+    <string name="rate">Kūʻai</string> 
+    <string name="action_donate">Hāʻawi i ka mea hoʻomohala</string> 
+    <string name="donate_greeting">Aloha!</string> 
+    <string name="donate_message">ʻO koʻu inoaʻo Amanda</string> 
+    <string name="donate_message2">Ināʻoe e hauʻoli nei i kēia taupānga ua hoʻomohala wau, e noʻonoʻo e kūʻai i kaʻu palapala hāʻawi</string> 
+    <string name="donate_message3">ʻAʻole hana ka hāʻawiʻana i ka hāʻawiʻana, akā, e hōʻike mai kāu hāʻawi iaʻu e hoʻoliloʻia koʻu manawa i ka hoʻomohalaʻana i nā mea maʻalahi,ʻaʻohe mahaloʻia</string> 
+    <string name="donate_thanks">Mahalo!</string> 
+    <string name="small"></string> 
+    <string name="medium"></string> 
+    <string name="large"></string> 
+    <string name="small">Liʻiliʻi</string> 
+    <string name="medium">Kūpono</string> 
+    <string name="large">Nui</string> 
+    <string name="small_heart">liʻiliʻi puʻuwai</string> 
+    <string name="medium_heart">puʻuwai manaʻo</string> 
+    <string name="large_heart">puʻuwai nui</string> 
+    <string name="widget_display">Hōʻike hōʻike</string> 
+    <string name="show_hours"></string> 
+    <string name="show_date_and_time">Hōʻike i ka lā a me ka manawa</string> 
+    <string name="show_hours">Hōʻike i nā hola</string> 
+ </resources>
