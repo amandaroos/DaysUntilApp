@@ -6,7 +6,7 @@
     <string name="seconds">Saat-saat</string> 
     <string name="until">Sehingga</string> 
     <string name="days">Hari</string> 
-    <string name="day"></string> 
+    <string name="day">Hari</string>
     <string name="hour">Jam</string> 
     <string name="minute">Minit</string> 
     <string name="second">Kedua</string> 
@@ -19,18 +19,14 @@
     <string name="donate_message">Nama saya amanda</string> 
     <string name="donate_message2">Jika anda menikmati aplikasi ini, saya maju, sila pertimbangkan untuk membeli aplikasi sumbangan saya</string> 
     <string name="donate_message3">Aplikasi derma tidak berbuat apa-apa, tetapi sumbangan anda akan menunjukkan kepada saya bahawa masa saya menghabiskan pembangunan yang mudah, tidak ada iklan dihargai</string> 
-    <string name="donate_thanks"></string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">Terima kasih!</string>
     <string name="small">Kecil</string> 
     <string name="medium">Sederhana.</string> 
     <string name="large">Besar</string> 
     <string name="small_heart">hati kecil.</string> 
     <string name="medium_heart">Medium hati</string> 
     <string name="large_heart">hati yang besar.</string> 
-    <string name="widget_display">Display Widget.</string> 
-    <string name="show_hours"></string> 
+    <string name="widget_display">Display Widget.</string>
     <string name="show_date_and_time">Tunjukkan tarikh dan masa</string> 
     <string name="show_hours">Tunjukkan jam</string> 
  </resources>

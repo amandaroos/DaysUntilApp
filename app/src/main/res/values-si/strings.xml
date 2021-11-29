@@ -6,7 +6,7 @@
     <string name="seconds">තත්පර</string> 
     <string name="until">දක්වා</string> 
     <string name="days">දින</string> 
-    <string name="day"></string> 
+    <string name="day">දිනය</string>
     <string name="hour">පැය</string> 
     <string name="minute">මිනිත්තුව</string> 
     <string name="second">දෙවැනි</string> 
@@ -19,18 +19,14 @@
     <string name="donate_message">මගේ නම අමන්දා</string> 
     <string name="donate_message2">ඔබ මෙම යෙදුම රස විඳිනවා නම්, කරුණාකර මගේ පරිත්යාග යෙදුම මිලදී ගන්න සලකා බලන්න</string> 
     <string name="donate_message3">පරිත්යාග යෙදුම කිසිවක් නොකරයි, නමුත් සරල, දැන්වීම් රහිත යෙදුම් සංවර්ධනය කිරීම සඳහා මගේ කාලය ගත කරන බව ඔබේ පරිත්යාගය මට පෙන්වනු ඇත</string> 
-    <string name="donate_thanks"></string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">ස්තූතියි!</string>
     <string name="small">කුඩා</string> 
     <string name="medium">මධ්යම</string> 
     <string name="large">මහා</string> 
     <string name="small_heart">කුඩා හදවත</string> 
     <string name="medium_heart">මධ්යම හදවත</string> 
     <string name="large_heart">විශාල හදවතක්</string> 
-    <string name="widget_display">විජට් සංදර්ශකය</string> 
-    <string name="show_hours"></string> 
+    <string name="widget_display">විජට් සංදර්ශකය</string>
     <string name="show_date_and_time">දිනය සහ වේලාව පෙන්වන්න</string> 
     <string name="show_hours">පැය පෙන්වන්න</string> 
  </resources>

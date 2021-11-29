@@ -6,7 +6,7 @@
     <string name="seconds">Segondra</string> 
     <string name="until">mandra</string> 
     <string name="days">Andro</string> 
-    <string name="day"></string> 
+    <string name="day">Andro</string>
     <string name="hour">Ora</string> 
     <string name="minute">Minitra</string> 
     <string name="second">FAHAROA</string> 
@@ -19,18 +19,14 @@
     <string name="donate_message">Amanda ny anarako</string> 
     <string name="donate_message2">Raha mankafy ity fampiharana ity aho dia novakiko, azafady mba hevero fa hividy ny fampiharana ny fanomezana</string> 
     <string name="donate_message3">Ny fampiharana fanomezana dia tsy manao na inona na inona, fa ny fanomezanao dia hampiseho amiko fa ny fotoako dia am-pandrosoana ny fampiharana tsy misy ads</string> 
-    <string name="donate_thanks">Misaotra!</string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">Misaotra!</string>
     <string name="small">KELY</string> 
     <string name="medium">SALASALANY</string> 
     <string name="large">ankamaroan\'ireo</string> 
     <string name="small_heart">fo kely</string> 
     <string name="medium_heart">Fo Medium</string> 
     <string name="large_heart">fo lehibe</string> 
-    <string name="widget_display">Widget Aseho</string> 
-    <string name="show_hours"></string> 
+    <string name="widget_display">Widget Aseho</string>
     <string name="show_date_and_time">Asehoy ny daty sy ny fotoana</string> 
     <string name="show_hours">Asehoy ny ora</string> 
  </resources>

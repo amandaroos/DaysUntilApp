@@ -6,7 +6,7 @@
     <string name="seconds">წამი</string> 
     <string name="until">Სანამ</string> 
     <string name="days">დღე</string> 
-    <string name="day"></string> 
+    <string name="day">Დღის</string>
     <string name="hour">საათი</string> 
     <string name="minute">წუთი</string> 
     <string name="second">მეორე</string> 
@@ -19,18 +19,14 @@
     <string name="donate_message">ჩემი სახელია ამანდა</string> 
     <string name="donate_message2">თუ თქვენ სარგებლობენ ამ აპლიკაციას, გთხოვთ, გაითვალისწინოთ ჩემი შემოწირულობის აპლიკაცია</string> 
     <string name="donate_message3">შემოწირულობის აპლიკაცია არაფერს აკეთებს, მაგრამ შენი შემოწირულობა მაჩვენებინა, რომ ჩემი დრო გაატარა მარტივი, არ არის ADS აპლიკაციები დაფასებული</string> 
-    <string name="donate_thanks">მადლობა!</string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">მადლობა!</string>
     <string name="small">Პატარა</string> 
     <string name="medium">საშუალო</string> 
     <string name="large">დიდი</string> 
     <string name="small_heart">პატარა გული</string> 
     <string name="medium_heart">საშუალო გული</string> 
     <string name="large_heart">დიდი გული</string> 
-    <string name="widget_display">ვიჯეტის ჩვენება</string> 
-    <string name="show_hours"></string> 
+    <string name="widget_display">ვიჯეტის ჩვენება</string>
     <string name="show_date_and_time">ჩვენება თარიღი და დრო</string> 
     <string name="show_hours">საათის ჩვენება</string> 
  </resources>

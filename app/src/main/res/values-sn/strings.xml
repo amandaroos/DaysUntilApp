@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <resources> 
-    <string name="app_name">Mazuva kusvikira</string> 
+    <string name="app_name">Mazuva Kusvikira</string>
     <string name="hours">Maawa</string> 
     <string name="minutes">Maminetsi</string> 
     <string name="seconds">Masekondi</string> 
     <string name="until">Kusvika</string> 
     <string name="days">Mazuva</string> 
-    <string name="day"></string> 
+    <string name="day">Zuva</string>
     <string name="hour">Awa</string> 
     <string name="minute">Mineti</string> 
     <string name="second">Chepiri</string> 
@@ -19,18 +19,14 @@
     <string name="donate_message">Zita rangu ndiAmanda</string> 
     <string name="donate_message2">Kana iwe uchinakidzwa neiyi app yandakavandudza, ndapota funga kutenga yangu yekupa app</string> 
     <string name="donate_message3">Iyo yekupa app haiite chero chinhu, asi mupiro wako unondiratidza kuti nguva yangu yapedza kugadzira nyore, hapana-ads apps inokosheswa</string> 
-    <string name="donate_thanks"></string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">Ndatenda!</string>
     <string name="small">Zvidiki</string> 
     <string name="medium">Pakati</string> 
     <string name="large">Hombe</string> 
     <string name="small_heart">moyo mudiki</string> 
     <string name="medium_heart">Mwoyo wepakati</string> 
     <string name="large_heart">Mwoyo wakakura</string> 
-    <string name="widget_display">Widget Ratidza</string> 
-    <string name="show_hours"></string> 
-    <string name="show_date_and_time">Ratidza zuva uye nguva</string> 
-    <string name="show_hours">Ratidza maawa</string> 
+    <string name="widget_display">Widget Ratidza</string>
+    <string name="show_date_and_time">Ratidza Zuva uye Nguva</string>
+    <string name="show_hours">Ratidza Maawa</string>
  </resources>

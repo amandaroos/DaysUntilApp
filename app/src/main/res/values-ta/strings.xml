@@ -6,7 +6,7 @@
     <string name="seconds">விநாடிகள்</string> 
     <string name="until">வரை</string> 
     <string name="days">நாட்கள்</string> 
-    <string name="day"></string> 
+    <string name="day">நாள்</string>
     <string name="hour">மணி நேரம்</string> 
     <string name="minute">நிமிடம்</string> 
     <string name="second">இரண்டாவது</string> 
@@ -19,18 +19,14 @@
     <string name="donate_message">என் பெயர் அமண்டா</string> 
     <string name="donate_message2">இந்த பயன்பாட்டை நீங்கள் அனுபவித்திருந்தால் நான் உருவாக்கியிருந்தால், என் நன்கொடை பயன்பாட்டை வாங்கும் கருத்தில் கொள்ளுங்கள்</string> 
     <string name="donate_message3">நன்கொடை பயன்பாட்டை எதுவும் செய்யவில்லை, ஆனால் உங்கள் நன்கொடை என் நேரம் எளிமையானது, விளம்பர பயன்பாடுகள் பாராட்டப்பட்டது என்று உங்கள் நன்கொடை எனக்கு காண்பிக்கும்</string> 
-    <string name="donate_thanks"></string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">நன்றி!</string>
     <string name="small">சிறிய</string> 
     <string name="medium">நடுத்தரம்</string> 
     <string name="large">பெரிய</string> 
     <string name="small_heart">சிறிய இதயம்</string> 
     <string name="medium_heart">நடுத்தர இதயம்</string> 
     <string name="large_heart">பெரிய இதயம்</string> 
-    <string name="widget_display">சாளரம் காட்சி</string> 
-    <string name="show_hours"></string> 
+    <string name="widget_display">சாளரம் காட்சி</string>
     <string name="show_date_and_time">தேதி மற்றும் நேரம் காட்டு</string> 
     <string name="show_hours">நிகழ்ச்சி மணி</string> 
  </resources>

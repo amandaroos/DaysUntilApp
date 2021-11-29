@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <resources> 
-    <string name="app_name">Hnub kom txog thaum</string> 
+    <string name="app_name">Hnub Kom Txog Thaum</string>
     <string name="hours">Xuabita</string> 
     <string name="minutes">Feeb</string> 
     <string name="seconds">Vib nas this</string> 
     <string name="until">Txog</string> 
     <string name="days">Hnub</string> 
-    <string name="day"></string> 
+    <string name="day">Hnub</string>
     <string name="hour">Xuab moo</string> 
     <string name="minute">Ib feeb</string> 
     <string name="second">Ib xi nkoos</string> 
@@ -14,23 +14,19 @@
     <string name="donate">Pub dawb</string> 
     <string name="upgrade">Ntxiv ua ke</string> 
     <string name="rate">Tus nqi</string> 
-    <string name="action_donate">Pub rau tus tsim tawm</string> 
+    <string name="action_donate">Pub rau tus tsim Tawm</string>
     <string name="donate_greeting">Nyob zoo!</string> 
     <string name="donate_message">Kuv lub npe yog Amanda</string> 
     <string name="donate_message2">Yog tias koj txaus siab rau cov app no Kuv tau tsim, thov txiav txim siab yuav khoom kuv cov nyiaj pub dawb</string> 
     <string name="donate_message3">Lub nyiaj pub dawb tsis ua dab tsi, tab sis koj cov nyiaj pub dawb yuav qhia kuv tias kuv lub sijhawm siv los tsim cov apps yooj yim, tsis muaj kev tshaj tawm</string> 
-    <string name="donate_thanks">Tsaug!</string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">Tsaug!</string>
     <string name="small">Me</string> 
     <string name="medium">Nruab nrab</string> 
     <string name="large">Loj</string> 
     <string name="small_heart">Lub plawv me me</string> 
     <string name="medium_heart">Nruab nrab plawv</string> 
     <string name="large_heart">Lub siab loj</string> 
-    <string name="widget_display">Widget Zaub</string> 
-    <string name="show_hours"></string> 
-    <string name="show_date_and_time">Qhia hnub thiab sijhawm</string> 
+    <string name="widget_display">Widget Zaub</string>
+    <string name="show_date_and_time">Qhia Hnub thiab Sijhawm</string>
     <string name="show_hours">Qhia Teev</string> 
  </resources>

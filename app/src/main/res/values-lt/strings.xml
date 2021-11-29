@@ -1,36 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <resources> 
-    <string name="app_name">Dienų iki</string> 
+    <string name="app_name">Dienų Iki</string>
     <string name="hours">Valandos</string> 
-    <string name="minutes">Minučių. \ T</string> 
+    <string name="minutes">Minutės</string>
     <string name="seconds">Sekundės</string> 
     <string name="until">Iki</string> 
     <string name="days">Dienos</string> 
-    <string name="day"></string> 
+    <string name="day">Diena</string>
     <string name="hour">Valandą</string> 
     <string name="minute">Minutė</string> 
     <string name="second">Antra</string> 
-    <string name="settings">Nustatymai. \ T</string> 
+    <string name="settings">Nustatymai</string>
     <string name="donate">Donate.</string> 
     <string name="upgrade">Patobulinti</string> 
-    <string name="rate">Įvertinkite. \ T</string> 
-    <string name="action_donate">Paremkite kūrėjui</string> 
+    <string name="rate">Įvertinkite</string>
+    <string name="action_donate">Paremkite Kūrėjui</string>
     <string name="donate_greeting">Sveiki!</string> 
     <string name="donate_message">Mano vardas yra Amanda</string> 
     <string name="donate_message2">Jei naudojate šią programą, parengiau, apsvarstykite galimybę įsigyti "Mano donorystės programą"</string> 
     <string name="donate_message3">Donorystės programa nieko nedaro, bet jūsų donorystė man parodys, kad mano laikas, praleistas kuriant paprastas, nėra skelbimų programos yra vertinamos</string> 
-    <string name="donate_thanks">Dėkoju!</string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">Dėkoju!</string>
     <string name="small">Mažas</string> 
     <string name="medium">Medžiaga</string> 
     <string name="large">Didelis</string> 
     <string name="small_heart">maža širdis</string> 
     <string name="medium_heart">Vidutinė širdimi</string> 
     <string name="large_heart">Didelė širdimi</string> 
-    <string name="widget_display">Valdiklio ekranas</string> 
-    <string name="show_hours"></string> 
-    <string name="show_date_and_time">Rodyti datą ir laiką</string> 
-    <string name="show_hours">Rodyti valandas</string> 
+    <string name="widget_display">Valdiklio Ekranas</string>
+    <string name="show_date_and_time">Rodyti Datą ir Laiką</string>
+    <string name="show_hours">Rodyti Valandas</string>
  </resources>

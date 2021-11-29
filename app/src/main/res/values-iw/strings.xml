@@ -6,7 +6,7 @@
     <string name="seconds">שניות</string> 
     <string name="until">עד</string> 
     <string name="days">ימי</string> 
-    <string name="day"></string> 
+    <string name="day">יְוֹם</string>
     <string name="hour">שָׁעָה</string> 
     <string name="minute">דַקָה</string> 
     <string name="second">שְׁנִיָה</string> 
@@ -19,18 +19,14 @@
     <string name="donate_message">שמי הוא אמנדה</string> 
     <string name="donate_message2">אם אתה נהנה App זה פיתחתי, לשקול רכישת App התרומה שלי</string> 
     <string name="donate_message3">App תרומה לא עושה שום דבר, אבל התרומה שלך יראה לי כי הזמן שלי בילה לפתח פשוט, לא-מודעות Apps מוערך</string> 
-    <string name="donate_thanks">תודה!</string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">תודה!</string>
     <string name="small">קָטָן</string> 
     <string name="medium">בינוני</string> 
     <string name="large">גָדוֹל</string> 
     <string name="small_heart">לב קטן</string> 
     <string name="medium_heart">לב בינוני</string> 
     <string name="large_heart">לב גדול</string> 
-    <string name="widget_display">תצוגת יישומון</string> 
-    <string name="show_hours"></string> 
+    <string name="widget_display">תצוגת יישומון</string>
     <string name="show_date_and_time">הצג תאריך ושעה</string> 
     <string name="show_hours">הצג שעות</string> 
  </resources>

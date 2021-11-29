@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <resources> 
-    <string name="app_name">Làithean gus</string> 
+    <string name="app_name">Làithean Gus</string>
     <string name="hours">Uairean</string> 
     <string name="minutes">Mionaidean</string> 
     <string name="seconds">Diogan</string> 
     <string name="until">Gus</string> 
     <string name="days">Làithean</string> 
-    <string name="day"></string> 
+    <string name="day">Latha</string>
     <string name="hour">Uair</string> 
     <string name="minute">Mionaid</string> 
     <string name="second">An dàrna</string> 
@@ -19,18 +19,14 @@
     <string name="donate_message">Is e m \'ainm Amanda</string> 
     <string name="donate_message2">Ma tha an aplacaid seo a \'còrdadh riut leasaich mi, feuch an smaoinich mi ri bhith a\' ceannach an aplacaid tabhartais agam</string> 
     <string name="donate_message3">Cha bhith an aplacaid tabhartais a \'dèanamh dad, ach seallaidh an tabhartaiche agad dhomhsa a chuir an ùine agam a-steach a bhith a\' leasachadh aplacaidean sìmplidh, chan eil a \'cur luach air an ùine agam</string> 
-    <string name="donate_thanks">Mòran taing!</string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">Mòran taing!</string>
     <string name="small">Beag</string> 
     <string name="medium">Meadhanach</string> 
     <string name="large">Mòr</string> 
     <string name="small_heart">cridhe beag</string> 
     <string name="medium_heart">cridhe meadhanach</string> 
     <string name="large_heart">cridhe mòr</string> 
-    <string name="widget_display">Taisbeanadh Widget</string> 
-    <string name="show_hours"></string> 
+    <string name="widget_display">Taisbeanadh Widget</string>
     <string name="show_date_and_time">Ceann-latha agus Ùine taisbeanaidh</string> 
-    <string name="show_hours">Seall uairean</string> 
+    <string name="show_hours">Seall Uairean</string>
  </resources>

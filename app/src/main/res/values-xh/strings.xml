@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <resources> 
-    <string name="app_name">Imihla kude kube</string> 
+    <string name="app_name">Imihla Kude Kube</string>
     <string name="hours">Iiyure</string> 
     <string name="minutes">Imizuzu</string> 
     <string name="seconds">Imizuzwana</string> 
     <string name="until">Kude kube</string> 
     <string name="days">Iintsuku</string> 
-    <string name="day"></string> 
+    <string name="day">Usuku</string>
     <string name="hour">Yure</string> 
     <string name="minute">Mzuzu</string> 
     <string name="second">Isibini</string> 
@@ -19,18 +19,14 @@
     <string name="donate_message">Igama lam nguAnanda</string> 
     <string name="donate_message2">Ukuba uyakonwabela le app iphuhlise, nceda uqaphele ukuthengwa kwenkqubo yam</string> 
     <string name="donate_message3">I-APP yomnikelo ayenzi kwanto, kodwa umnikelo wakho uza kundibonisa ukuba ixesha lam lachitha ixesha elilula, i-HE-Apps ixatyisiwe</string> 
-    <string name="donate_thanks"></string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">Enkosi!</string>
     <string name="small">Encinci</string> 
     <string name="medium">Phakathi</string> 
     <string name="large">Enkulu</string> 
     <string name="small_heart">Intliziyo encinci</string> 
     <string name="medium_heart">Intliziyo ephakathi</string> 
     <string name="large_heart">Intliziyo enkulu</string> 
-    <string name="widget_display">I-Wordget Show</string> 
-    <string name="show_hours"></string> 
+    <string name="widget_display">I-Wordget Show</string>
     <string name="show_date_and_time">Umhla kunye nexesha</string> 
     <string name="show_hours">Veza iiyure</string> 
  </resources>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <resources> 
-    <string name="app_name">Dienas līdz</string> 
+    <string name="app_name">Dienas Līdz</string>
     <string name="hours">Stundas</string> 
     <string name="minutes">Protokols</string> 
     <string name="seconds">Sekundes</string> 
     <string name="until">Līdz</string> 
     <string name="days">Dienas</string> 
-    <string name="day"></string> 
+    <string name="day">Diena</string>
     <string name="hour">Stunda</string> 
     <string name="minute">Minūte</string> 
     <string name="second">Otrkārt</string> 
@@ -14,23 +14,19 @@
     <string name="donate">Ziedot</string> 
     <string name="upgrade">Jauninājums</string> 
     <string name="rate">Likme</string> 
-    <string name="action_donate">Ziedot attīstītājam</string> 
+    <string name="action_donate">Ziedot Attīstītājam</string>
     <string name="donate_greeting">Sveiki!</string> 
     <string name="donate_message">Mans vārds ir Amanda</string> 
     <string name="donate_message2">Ja jūs baudīsiet šo lietotni, lūdzu, apsveriet iespēju iegādāties savu ziedojumu lietotni</string> 
     <string name="donate_message3">Ziedošanas lietotne neko nedara, bet jūsu ziedojums parādīs, ka mans laiks, kas pavadīts, izstrādājot vienkāršus, bez reklāmu lietotnes tiek novērtēts</string> 
-    <string name="donate_thanks">Paldies!</string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">Paldies!</string>
     <string name="small">Mazs</string> 
     <string name="medium">Medijs</string> 
     <string name="large">Liels</string> 
     <string name="small_heart">maza sirds</string> 
     <string name="medium_heart">vidēja sirds</string> 
     <string name="large_heart">liela sirds</string> 
-    <string name="widget_display">Widget displejs</string> 
-    <string name="show_hours"></string> 
-    <string name="show_date_and_time">Rādīt datumu un laiku</string> 
-    <string name="show_hours">Rādīt stundas</string> 
+    <string name="widget_display">Widget Displejs</string>
+    <string name="show_date_and_time">Rādīt Datumu un Laiku</string>
+    <string name="show_hours">Rādīt Stundas</string>
  </resources>

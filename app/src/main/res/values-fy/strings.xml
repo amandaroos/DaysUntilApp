@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <resources> 
-    <string name="app_name">Dagen oant</string> 
+    <string name="app_name">Dagen Oant</string>
     <string name="hours">Oeren</string> 
     <string name="minutes">Minuten</string> 
     <string name="seconds">Sekonden</string> 
     <string name="until">Oant</string> 
     <string name="days">Dagen</string> 
-    <string name="day"></string> 
+    <string name="day">Dei</string>
     <string name="hour">Oere</string> 
     <string name="minute">Minút</string> 
     <string name="second">Twadde</string> 
@@ -19,18 +19,14 @@
     <string name="donate_message">Myn namme is Amanda</string> 
     <string name="donate_message2">As jo genietsje fan dizze app ûntwikkele ik, tink dan asjebleaft oan it keapjen fan myn donaasje-app</string> 
     <string name="donate_message3">De donaasje-app docht neat, mar jo donaasje sil my sjen litte dat myn tiid bestege oan it ûntwikkeljen fan ienfâldige, no-ad-apps wurdt wurdearre</string> 
-    <string name="donate_thanks">Tank!</string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">Tank!</string>
     <string name="small">Lyts</string> 
     <string name="medium">Medium</string> 
     <string name="large">Grut</string> 
     <string name="small_heart">lyts hert</string> 
     <string name="medium_heart">medium hert</string> 
     <string name="large_heart">grut hert</string> 
-    <string name="widget_display">Widget-werjaan</string> 
-    <string name="show_hours"></string> 
+    <string name="widget_display">Widget-werjaan</string>
     <string name="show_date_and_time">Datum en tiid sjen litte</string> 
     <string name="show_hours">Hoeden sjen litte</string> 
  </resources>

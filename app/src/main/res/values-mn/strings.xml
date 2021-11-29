@@ -6,7 +6,7 @@
     <string name="seconds">Хоёр цаг</string> 
     <string name="until">Хүртэл</string> 
     <string name="days">Ах</string> 
-    <string name="day"></string> 
+    <string name="day">Өдөр</string>
     <string name="hour">Аг</string> 
     <string name="minute">Моч / минут</string> 
     <string name="second">Хоёрдахь нь</string> 
@@ -19,18 +19,14 @@
     <string name="donate_message">Миний нэр Аманда</string> 
     <string name="donate_message2">Хэрэв та энэ апп-ыг таашаал авч байгаа бол миний хөгжсөн хандивын апп худалдаж авах талаар бодож үзээрэй</string> 
     <string name="donate_message3">Хандивын апп нь юу ч хийдэггүй, гэхдээ таны хандив нь энгийн, зар сурталчилгааг олж авахад миний цаг хугацаа, зар сурталчилгааг үнэлэх болно</string> 
-    <string name="donate_thanks">! Баяртай</string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">! Баяртай</string>
     <string name="small">Жижиг</string> 
     <string name="medium">Дунд</string> 
     <string name="large">Том</string> 
     <string name="small_heart">жижиг нүд</string> 
     <string name="medium_heart">дундаж ба дунд</string> 
     <string name="large_heart">том зүрх</string> 
-    <string name="widget_display">Виджет дэлгэц</string> 
-    <string name="show_hours"></string> 
+    <string name="widget_display">Виджет дэлгэц</string>
     <string name="show_date_and_time">Огноо, цагийг харуулах</string> 
     <string name="show_hours">Харуулах цаг</string> 
  </resources>

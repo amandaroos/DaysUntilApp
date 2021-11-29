@@ -6,7 +6,7 @@
     <string name="seconds">ວິນາທີ</string> 
     <string name="until">ຈົນເຖິງ</string> 
     <string name="days">ມື້</string> 
-    <string name="day"></string> 
+    <string name="day">ວັນ</string>
     <string name="hour">ຊົ່ວໂມງ</string> 
     <string name="minute">ນາທີ</string> 
     <string name="second">ທີສອງ</string> 
@@ -19,18 +19,14 @@
     <string name="donate_message">ຂ້ອຍຊື່ Amanda</string> 
     <string name="donate_message2">ຖ້າທ່ານມີຄວາມສຸກກັບແອັບ this ນີ້ທີ່ຂ້ອຍພັດທະນາ, ກະລຸນາພິຈາລະນາຊື້ແອັບ doan ຂອງຂ້ອຍ</string> 
     <string name="donate_message3">ແອັບ do ບໍລິຈາກບໍ່ໄດ້ເຮັດຫຍັງເລີຍ, ແຕ່ການບໍລິຈາກຂອງທ່ານຈະສະແດງໃຫ້ຂ້ອຍເຫັນວ່າເວລາຂອງຂ້ອຍໃຊ້ເວລາໃນການພັດທະນາແອັບ apps ທີ່ງ່າຍດາຍ, ບໍ່ມີການຍົກຍ້ອງ</string> 
-    <string name="donate_thanks">ຂອບໃຈ!</string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">ຂອບໃຈ!</string>
     <string name="small">ຂະຫນາດນ້ອຍ</string> 
     <string name="medium">ກາງ</string> 
     <string name="large">ປຸ້ມ</string> 
     <string name="small_heart">ຫົວໃຈນ້ອຍ</string> 
     <string name="medium_heart">ຫົວໃຈກາງ</string> 
     <string name="large_heart">ຫົວໃຈໃຫຍ່</string> 
-    <string name="widget_display">ຈໍສະແດງຜົນ WIDGET</string> 
-    <string name="show_hours"></string> 
+    <string name="widget_display">ຈໍສະແດງຜົນ WIDGET</string>
     <string name="show_date_and_time">ສະແດງວັນທີແລະເວລາ</string> 
     <string name="show_hours">ສະແດງຊົ່ວໂມງ</string> 
  </resources>

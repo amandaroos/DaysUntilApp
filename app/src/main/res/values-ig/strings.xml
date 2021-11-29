@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <resources> 
-    <string name="app_name">Bọchị ruo</string> 
+    <string name="app_name">Bọchị Ruo</string>
     <string name="hours">Keolechi</string> 
     <string name="minutes">Keotiti</string> 
     <string name="seconds">Sekọnd</string> 
     <string name="until">Tutuu</string> 
     <string name="days">Ubochi</string> 
-    <string name="day"></string> 
+    <string name="day">Ụbọchị</string>
     <string name="hour">Oge</string> 
     <string name="minute">Nke ntakiri</string> 
     <string name="second">Sekon</string> 
@@ -14,23 +14,19 @@
     <string name="donate">Inye</string> 
     <string name="upgrade">Kwalie</string> 
     <string name="rate">Egoahia</string> 
-    <string name="action_donate">Nye onyinye</string> 
+    <string name="action_donate">Nye Onyinye</string>
     <string name="donate_greeting">Nnọọ!</string> 
-    <string name="donate_message">Aha m bụ amanda</string> 
+    <string name="donate_message">Aha m bụ Amanda</string>
     <string name="donate_message2">Ọ bụrụ na ị na-anụ ụtọ ngwa a, biko, tụlee ịzụta ngwa m</string> 
     <string name="donate_message3">Ngwa onyinye anaghị eme ihe ọ bụla, mana onyinye gị ga-egosi m na oge m na-eme ka a na-azụlite ngwa dị mfe, enweghị ekele</string> 
-    <string name="donate_thanks">Daalụ!</string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">Daalụ!</string>
     <string name="small">Nke ntakiri</string> 
     <string name="medium">Keusoro</string> 
     <string name="large">Keibu</string> 
     <string name="small_heart">obere obi</string> 
     <string name="medium_heart">obi m</string> 
     <string name="large_heart">Nnukwu Obi</string> 
-    <string name="widget_display">Ngosipụta Wijetị</string> 
-    <string name="show_hours"></string> 
+    <string name="widget_display">Ngosipụta Wijetị</string>
     <string name="show_date_and_time">Gosi Datebọchị na Oge</string> 
     <string name="show_hours">Gosi Oge</string> 
  </resources>

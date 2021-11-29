@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <resources> 
-    <string name="app_name">Dagar til</string> 
+    <string name="app_name">Dagar Til</string>
     <string name="hours">Klukkustundir</string> 
     <string name="minutes">Mínútur</string> 
     <string name="seconds">Sekúndur</string> 
     <string name="until">Þar til</string> 
     <string name="days">Daga</string> 
-    <string name="day"></string> 
+    <string name="day">Dagur</string>
     <string name="hour">Klukkustund</string> 
     <string name="minute">Mínútu</string> 
     <string name="second">Annað</string> 
@@ -14,23 +14,19 @@
     <string name="donate">Donate.</string> 
     <string name="upgrade">Uppfærsla.</string> 
     <string name="rate">Hlutfall</string> 
-    <string name="action_donate">Gefðu til framkvæmdaraðila</string> 
+    <string name="action_donate">Gefðu til Framkvæmdaraðila</string>
     <string name="donate_greeting">Halló!</string> 
     <string name="donate_message">Mitt nafn er Amanda</string> 
     <string name="donate_message2">Ef þú ert að njóta þessa app sem ég þróaði, vinsamlegast skoðaðu að kaupa framlagsforritið mitt</string> 
     <string name="donate_message3">Gjöfin</string> 
-    <string name="donate_thanks">Takk!</string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">Takk!</string>
     <string name="small">Lítil</string> 
     <string name="medium">Miðlungs</string> 
     <string name="large">Stórt</string> 
     <string name="small_heart">Lítil hjarta</string> 
     <string name="medium_heart">miðlungs hjarta</string> 
     <string name="large_heart">Stórt hjarta</string> 
-    <string name="widget_display">Widget Display.</string> 
-    <string name="show_hours"></string> 
-    <string name="show_date_and_time">Sýna dagsetningu og tíma</string> 
-    <string name="show_hours">Sýna klukkustundir</string> 
+    <string name="widget_display">Widget Display</string>
+    <string name="show_date_and_time">Sýna Dagsetningu og Tíma</string>
+    <string name="show_hours">Sýna Klukkustundir</string>
  </resources>

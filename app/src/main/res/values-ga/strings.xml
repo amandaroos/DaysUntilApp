@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <resources> 
-    <string name="app_name">Laethanta go dtí</string> 
+    <string name="app_name">Laethanta Go Dtí</string>
     <string name="hours">UAIREAN</string> 
     <string name="minutes">Nóiméad</string> 
     <string name="seconds">Soicind</string> 
     <string name="until">Go dtí</string> 
     <string name="days">Laethanta</string> 
-    <string name="day"></string> 
+    <string name="day">Lá</string>
     <string name="hour">Uair an chloig</string> 
     <string name="minute">Nóiméad</string> 
     <string name="second">An dara giar</string> 
@@ -19,18 +19,14 @@
     <string name="donate_message">Is é an t-ainm atá orm ná Amanda</string> 
     <string name="donate_message2">Má tá tú ag baint taitnimh as an bhfeidhmchlár seo, d\'fhorbair mé, smaoinigh ar mo app síntiús a cheannach</string> 
     <string name="donate_message3">Ní dhéanann an app síntiús rud ar bith, ach beidh do síntiús a thaispeáint dom go bhfuil mo chuid ama a chaitear ag forbairt simplí, níl aon-ads apps meas</string> 
-    <string name="donate_thanks">Go raibh maith agat!</string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">Go raibh maith agat!</string>
     <string name="small">Beag</string> 
     <string name="medium">Mheán</string> 
     <string name="large">Fairsing</string> 
     <string name="small_heart">croí beag</string> 
     <string name="medium_heart">croílárnach</string> 
     <string name="large_heart">croí mór</string> 
-    <string name="widget_display">Taispeáin Giuirléid</string> 
-    <string name="show_hours"></string> 
+    <string name="widget_display">Taispeáin Giuirléid</string>
     <string name="show_date_and_time">Taispeáin Dáta agus Am</string> 
     <string name="show_hours">Uair an chloig a thaispeáint</string> 
  </resources>

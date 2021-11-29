@@ -6,7 +6,7 @@
     <string name="seconds">સેકંડ</string> 
     <string name="until">ત્યાં સુધી</string> 
     <string name="days">દિવસ</string> 
-    <string name="day"></string> 
+    <string name="day">દિવસ</string>
     <string name="hour">કલાક</string> 
     <string name="minute">મિનિટ</string> 
     <string name="second">બીજું</string> 
@@ -19,18 +19,14 @@
     <string name="donate_message">મારું નામ અમાન્ડા છે</string> 
     <string name="donate_message2">જો તમે આ એપ્લિકેશનનો આનંદ માણી રહ્યા છો, તો કૃપા કરીને મારો દાન એપ્લિકેશન ખરીદવાનો વિચાર કરો</string> 
     <string name="donate_message3">દાન એપ્લિકેશન કંઈપણ કરતું નથી, પરંતુ તમારું દાન મને બતાવશે કે મારો સમય સરળ વિકાસશીલ છે, નો-જાહેરાત એપ્લિકેશન્સની પ્રશંસા થાય છે</string> 
-    <string name="donate_thanks">આભાર!</string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">આભાર!</string>
     <string name="small">નાનું</string> 
     <string name="medium">મધ્યમ</string> 
     <string name="large">મોટી</string> 
     <string name="small_heart">નાના હૃદય</string> 
     <string name="medium_heart">મધ્યમ હૃદય</string> 
     <string name="large_heart">મોટા હૃદય</string> 
-    <string name="widget_display">વિજેટ પ્રદર્શન</string> 
-    <string name="show_hours"></string> 
+    <string name="widget_display">વિજેટ પ્રદર્શન</string>
     <string name="show_date_and_time">તારીખ અને સમય બતાવો</string> 
     <string name="show_hours">બતાવો કલાક</string> 
  </resources>

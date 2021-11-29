@@ -6,7 +6,7 @@
     <string name="seconds">Секунди</string> 
     <string name="until">Додека</string> 
     <string name="days">Дена</string> 
-    <string name="day"></string> 
+    <string name="day">Ден</string>
     <string name="hour">Час</string> 
     <string name="minute">Минута</string> 
     <string name="second">Второ</string> 
@@ -19,18 +19,14 @@
     <string name="donate_message">Моето име е Аманда</string> 
     <string name="donate_message2">Ако уживате во оваа апликација јас развив, ве молиме размислете за купување на мојата донација апликација</string> 
     <string name="donate_message3">Апликацијата за донации не прави ништо, но вашата донација ќе ми покаже дека моето време поминато во развој на едноставни, не-реклами апликации се ценети</string> 
-    <string name="donate_thanks">Ви благодариме!</string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">Ви благодариме!</string>
     <string name="small">Мали</string> 
     <string name="medium">Средно</string> 
     <string name="large">Голем</string> 
     <string name="small_heart">Мало срце</string> 
     <string name="medium_heart">Средно срце</string> 
     <string name="large_heart">Големо срце</string> 
-    <string name="widget_display">Приказ на виџети</string> 
-    <string name="show_hours"></string> 
+    <string name="widget_display">Приказ на виџети</string>
     <string name="show_date_and_time">Прикажи го датумот и времето</string> 
     <string name="show_hours">Прикажи ги часовите</string> 
  </resources>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <resources> 
-    <string name="app_name">Diwrnodau tan</string> 
+    <string name="app_name">Diwrnodau Tan</string>
     <string name="hours">Oriau</string> 
     <string name="minutes">Nghofnodion</string> 
     <string name="seconds">Eiliadau</string> 
     <string name="until">Tan</string> 
     <string name="days">Dyddiau</string> 
-    <string name="day"></string> 
+    <string name="day">Diwrnod</string>
     <string name="hour">Awr</string> 
     <string name="minute">Munud</string> 
     <string name="second">Chefnogwyd</string> 
@@ -14,23 +14,19 @@
     <string name="donate">Ddoniaf</string> 
     <string name="upgrade">Uwchraddiais</string> 
     <string name="rate">Drethwyf</string> 
-    <string name="action_donate">Rhodd i ddatblygwr</string> 
+    <string name="action_donate">Rhodd i Ddatblygwr</string>
     <string name="donate_greeting">Helo!</string> 
     <string name="donate_message">Fy enw i yw Amanda</string> 
     <string name="donate_message2">Os ydych chi\'n mwynhau\'r ap hwn datblygais, ystyriwch brynu fy ap rhodd</string> 
     <string name="donate_message3">Nid yw\'r App Rhoddion yn gwneud unrhyw beth, ond bydd eich rhodd yn dangos i mi fod fy amser a dreuliwyd yn datblygu apps syml, dim hysbysebion yn cael ei werthfawrogi</string> 
-    <string name="donate_thanks">Diolch!</string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">Diolch!</string>
     <string name="small">Bychan</string> 
     <string name="medium">Cyfrwng</string> 
     <string name="large">Mawr</string> 
     <string name="small_heart">calon fach</string> 
     <string name="medium_heart">Calon Canolig</string> 
     <string name="large_heart">calon fawr</string> 
-    <string name="widget_display">Arddangosiad Widget</string> 
-    <string name="show_hours"></string> 
+    <string name="widget_display">Arddangosiad Widget</string>
     <string name="show_date_and_time">Dangoswch ddyddiad ac amser</string> 
     <string name="show_hours">Sioe Oriau</string> 
  </resources>

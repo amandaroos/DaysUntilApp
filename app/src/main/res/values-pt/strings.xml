@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <resources> 
-    <string name="app_name">Dias até</string> 
+    <string name="app_name">Dias Até</string>
     <string name="hours">Horas</string> 
     <string name="minutes">Minutos</string> 
     <string name="seconds">Segundas</string> 
     <string name="until">Até</string> 
     <string name="days">Dias</string> 
-    <string name="day"></string> 
+    <string name="day">Dia</string>
     <string name="hour">Hora</string> 
     <string name="minute">Minuto</string> 
     <string name="second">Segunda</string> 
@@ -14,23 +14,19 @@
     <string name="donate">Doar</string> 
     <string name="upgrade">Melhoria</string> 
     <string name="rate">Avaliar</string> 
-    <string name="action_donate">Doe para o desenvolvedor</string> 
+    <string name="action_donate">Doe para o Desenvolvedor</string>
     <string name="donate_greeting">Olá!</string> 
     <string name="donate_message">Meu nome é Amanda</string> 
     <string name="donate_message2">Se você está gostando deste aplicativo eu desenvolvi, por favor considere comprar meu aplicativo de doação</string> 
     <string name="donate_message3">O aplicativo de doação não faz nada, mas sua doação me mostrará que meu tempo gasto desenvolvendo aplicativos simples, não-anúncios é apreciado</string> 
-    <string name="donate_thanks"></string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">Obrigada!</string>
     <string name="small">Pequena</string> 
     <string name="medium">Média</string> 
     <string name="large">Grande</string> 
     <string name="small_heart">Coração pequeno</string> 
     <string name="medium_heart">Coração Médio</string> 
     <string name="large_heart">grande coração</string> 
-    <string name="widget_display">Exibição do widget.</string> 
-    <string name="show_hours"></string> 
-    <string name="show_date_and_time">Mostrar data e hora</string> 
-    <string name="show_hours">Mostrar horas.</string> 
+    <string name="widget_display">Exibição do Widget</string>
+    <string name="show_date_and_time">Mostrar Data e Hora</string>
+    <string name="show_hours">Mostrar Horas</string>
  </resources>

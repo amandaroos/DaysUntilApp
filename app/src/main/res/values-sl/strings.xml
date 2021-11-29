@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <resources> 
-    <string name="app_name">Do dneva</string> 
+    <string name="app_name">Do Dneva</string>
     <string name="hours">Ure</string> 
     <string name="minutes">Zapisnik</string> 
     <string name="seconds">Sekund</string> 
     <string name="until">Do.</string> 
     <string name="days">Dnevi</string> 
-    <string name="day"></string> 
+    <string name="day">Dan</string>
     <string name="hour">Uro</string> 
     <string name="minute">Minuto</string> 
     <string name="second">Drugič</string> 
@@ -19,18 +19,14 @@
     <string name="donate_message">Moje ime je Amanda</string> 
     <string name="donate_message2">Če uživate v tej aplikaciji, sem razvil, razmislite o nakupu moje donacijske aplikacije</string> 
     <string name="donate_message3">Aplikacija Donacija ne stori ničesar, ampak vaša donacija mi bo pokazala, da je moj čas porabil za razvoj preprostih, brez oglasov aplikacije ni cenjena</string> 
-    <string name="donate_thanks"></string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">Hvala!</string>
     <string name="small">Majhna</string> 
     <string name="medium">Srednje</string> 
     <string name="large">Velika</string> 
     <string name="small_heart">majhno srce</string> 
     <string name="medium_heart">Srednje srce</string> 
     <string name="large_heart">Veliko srce</string> 
-    <string name="widget_display">Prikaz pripomočka</string> 
-    <string name="show_hours"></string> 
-    <string name="show_date_and_time">Pokaži datum in čas</string> 
-    <string name="show_hours">Kažejo ure</string> 
+    <string name="widget_display">Prikaz Pripomočka</string>
+    <string name="show_date_and_time">Pokaži Datum in Čas</string>
+    <string name="show_hours">Kažejo Ure</string>
  </resources>

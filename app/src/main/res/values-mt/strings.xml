@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <resources> 
-    <string name="app_name">Ġranet sa</string> 
+    <string name="app_name">Ġranet Sa</string>
     <string name="hours">Sigħat</string> 
     <string name="minutes">Minuti</string> 
     <string name="seconds">Sekondi</string> 
     <string name="until">Sa</string> 
     <string name="days">Jiem</string> 
-    <string name="day"></string> 
+    <string name="day">Jum</string>
     <string name="hour">Siegħa</string> 
     <string name="minute">Minuta</string> 
     <string name="second">Tieni</string> 
@@ -19,18 +19,14 @@
     <string name="donate_message">Jisimni Amanda</string> 
     <string name="donate_message2">Jekk qed tgawdi dan l-app li żviluppajt, jekk jogħġbok ikkunsidra li tixtri l-app tad-donazzjoni tiegħi</string> 
     <string name="donate_message3">L-app tad-donazzjoni ma jagħmel xejn, imma d-donazzjoni tiegħek turini li l-ħin tiegħi mgħoddi jiżviluppaw sempliċi, apps bla reklami huwa apprezzat</string> 
-    <string name="donate_thanks"></string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">Grazzi!</string>
     <string name="small">Żgħir</string> 
     <string name="medium">Medju</string> 
     <string name="large">Kbir</string> 
     <string name="small_heart">Qalb żgħir</string> 
     <string name="medium_heart">Qalb medju</string> 
     <string name="large_heart">Qalb kbir</string> 
-    <string name="widget_display">Widget display.</string> 
-    <string name="show_hours"></string> 
+    <string name="widget_display">Widget display.</string>
     <string name="show_date_and_time">Uri d-data u l-ħin</string> 
     <string name="show_hours">Uri s-sigħat</string> 
  </resources>

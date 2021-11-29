@@ -6,7 +6,7 @@
     <string name="seconds">Секунд</string> 
     <string name="until">Чейин</string> 
     <string name="days">Күндөр</string> 
-    <string name="day"></string> 
+    <string name="day">Күн</string>
     <string name="hour">Саат</string> 
     <string name="minute">Мүнөт</string> 
     <string name="second">Экинчи</string> 
@@ -19,18 +19,14 @@
     <string name="donate_message">Менин атым Аманда</string> 
     <string name="donate_message2">Эгер сиз бул колдонмону жактырсаңыз, мен өнүккөн болсоңуз, менин кайрымдуулук колдонмосун сатып алууну ойлонуп көрүңүз</string> 
     <string name="donate_message3">Кайрымдуулук колдонмосу эч нерсе кылбайт, бирок менин кайрымдуулук сиздин менин убактымды жөнөкөйлөтүп, жарнамалык колдонмолорду бааланат деп көрсөтөт</string> 
-    <string name="donate_thanks">Рахмат!</string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">Рахмат!</string>
     <string name="small">Кичинекей</string> 
     <string name="medium">Орто</string> 
     <string name="large">Чоң</string> 
     <string name="small_heart">кичинекей жүрөк</string> 
     <string name="medium_heart">Орточо жүрөк</string> 
     <string name="large_heart">чоң жүрөк</string> 
-    <string name="widget_display">Виджет дисплей</string> 
-    <string name="show_hours"></string> 
+    <string name="widget_display">Виджет дисплей</string>
     <string name="show_date_and_time">Конустан жана убакыт</string> 
     <string name="show_hours">Саат саат</string> 
  </resources>

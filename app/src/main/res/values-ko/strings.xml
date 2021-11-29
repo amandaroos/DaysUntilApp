@@ -6,7 +6,7 @@
     <string name="seconds">초월</string> 
     <string name="until">까지</string> 
     <string name="days">날</string> 
-    <string name="day"></string> 
+    <string name="day">일</string>
     <string name="hour">시간</string> 
     <string name="minute">분</string> 
     <string name="second">두번째</string> 
@@ -19,18 +19,14 @@
     <string name="donate_message">내 이름은 아만다입니다</string> 
     <string name="donate_message2">내가 개발 한이 앱을 즐기고 있다면 기부 앱을 구입하십시오.</string> 
     <string name="donate_message3">기부 앱은 아무 것도하지 않지만 기부금은 나의 시간이 간단하고, 광고가없는 앱을 개발하는 데 소비 된 시간을 보여줄 것입니다.</string> 
-    <string name="donate_thanks">감사 해요!</string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">감사 해요!</string>
     <string name="small">작은</string> 
     <string name="medium">중간</string> 
     <string name="large">크기가 큰</string> 
     <string name="small_heart">작은 마음</string> 
     <string name="medium_heart">중간 심장</string> 
     <string name="large_heart">큰 마음</string> 
-    <string name="widget_display">위젯 디스플레이</string> 
-    <string name="show_hours"></string> 
+    <string name="widget_display">위젯 디스플레이</string>
     <string name="show_date_and_time">날짜와 시간을 보여줍니다</string> 
     <string name="show_hours">시간을 보여줍니다</string> 
  </resources>

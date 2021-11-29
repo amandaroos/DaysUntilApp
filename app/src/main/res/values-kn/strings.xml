@@ -6,7 +6,7 @@
     <string name="seconds">ಸೆಕೆಂಡುಗಳು</string> 
     <string name="until">ತನಕ</string> 
     <string name="days">ದಿನಗಳು</string> 
-    <string name="day"></string> 
+    <string name="day">ದಿನ</string>
     <string name="hour">ಗಂಟೆ</string> 
     <string name="minute">ನಿಮಿಷ</string> 
     <string name="second">ಎರಡನೇ</string> 
@@ -19,18 +19,14 @@
     <string name="donate_message">ನನ್ನ ಹೆಸರು ಅಮಂಡಾ</string> 
     <string name="donate_message2">ನೀವು ಅಭಿವೃದ್ಧಿಪಡಿಸಿದ ಈ ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ನೀವು ಆನಂದಿಸುತ್ತಿದ್ದರೆ, ದಯವಿಟ್ಟು ನನ್ನ ಕೊಡುಗೆ ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಖರೀದಿಸಿ</string> 
     <string name="donate_message3">ಕೊಡುಗೆ ಅಪ್ಲಿಕೇಶನ್ ಏನನ್ನೂ ಮಾಡುವುದಿಲ್ಲ, ಆದರೆ ನಿಮ್ಮ ಕೊಡುಗೆ ನನ್ನ ಸಮಯವು ಸರಳವಾಗಿ ಅಭಿವೃದ್ಧಿ ಹೊಂದುತ್ತಿದೆ ಎಂದು ನನಗೆ ತೋರಿಸುತ್ತದೆ, ಯಾವುದೇ ಜಾಹೀರಾತುಗಳ ಅಪ್ಲಿಕೇಶನ್ಗಳು ಮೆಚ್ಚುಗೆ ಪಡೆದಿವೆ</string> 
-    <string name="donate_thanks">ಧನ್ಯವಾದಗಳು!</string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">ಧನ್ಯವಾದಗಳು!</string>
     <string name="small">ಸಣ್ಣ</string> 
     <string name="medium">ಮಾಧ್ಯಮ</string> 
     <string name="large">ದೊಡ್ಡ</string> 
     <string name="small_heart">ಸಣ್ಣ ಹೃದಯ</string> 
     <string name="medium_heart">ಮಧ್ಯಮ ಹೃದಯ</string> 
     <string name="large_heart">ದೊಡ್ಡ ಹೃದಯ</string> 
-    <string name="widget_display">ವಿಜೆಟ್ ಪ್ರದರ್ಶನ</string> 
-    <string name="show_hours"></string> 
+    <string name="widget_display">ವಿಜೆಟ್ ಪ್ರದರ್ಶನ</string>
     <string name="show_date_and_time">ದಿನಾಂಕ ಮತ್ತು ಸಮಯವನ್ನು ತೋರಿಸಿ</string> 
     <string name="show_hours">ಗಂಟೆಗಳ ತೋರಿಸು</string> 
  </resources>

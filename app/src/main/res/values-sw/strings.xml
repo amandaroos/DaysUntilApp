@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <resources> 
-    <string name="app_name">Siku mpaka</string> 
-    <string name="hours">Masaa.</string> 
+    <string name="app_name">Siku Mpaka</string>
+    <string name="hours">Masaa</string>
     <string name="minutes">Dakika</string> 
     <string name="seconds">Sekunde</string> 
     <string name="until">Mpaka</string> 
     <string name="days">Siku</string> 
-    <string name="day"></string> 
+    <string name="day">Siku</string>
     <string name="hour">Saa</string> 
-    <string name="minute">Dakika.</string> 
+    <string name="minute">Dakika</string>
     <string name="second">Pili</string> 
     <string name="settings">Mipangilio</string> 
     <string name="donate">Msaada</string> 
@@ -19,18 +19,14 @@
     <string name="donate_message">Jina langu ni Amanda.</string> 
     <string name="donate_message2">Ikiwa unafurahia programu hii niliyoiendeleza, tafadhali angalia ununuzi wa programu yangu ya mchango</string> 
     <string name="donate_message3">Programu ya mchango haifanyi chochote, lakini mchango wako utanionyeshea kwamba muda wangu uliotumika kuendeleza programu rahisi, zisizo na matangazo zinathaminiwa</string> 
-    <string name="donate_thanks"></string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">Asante!</string>
     <string name="small">Ndogo</string> 
     <string name="medium">Kati</string> 
     <string name="large">Kubwa</string> 
     <string name="small_heart">Moyo mdogo</string> 
     <string name="medium_heart">Moyo wa kati</string> 
     <string name="large_heart">Moyo mkubwa</string> 
-    <string name="widget_display">Uonyesho wa Widget.</string> 
-    <string name="show_hours"></string> 
-    <string name="show_date_and_time">Onyesha tarehe na wakati</string> 
-    <string name="show_hours">Onyesha masaa</string> 
+    <string name="widget_display">Uonyesho wa Widget.</string>
+    <string name="show_date_and_time">Onyesha Tarehe na Wakati</string>
+    <string name="show_hours">Onyesha Masaa</string>
  </resources>

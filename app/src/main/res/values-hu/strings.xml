@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <resources> 
-    <string name="app_name">Hátralévő napok</string> 
+    <string name="app_name">Hátralévő Napok</string>
     <string name="hours">Órák</string> 
     <string name="minutes">Percek</string> 
     <string name="seconds">Másodperc</string> 
     <string name="until">Amíg</string> 
     <string name="days">Napok</string> 
-    <string name="day"></string> 
+    <string name="day">Nap</string>
     <string name="hour">Óra</string> 
     <string name="minute">Perc</string> 
     <string name="second">Második</string> 
@@ -14,23 +14,19 @@
     <string name="donate">Adományoz</string> 
     <string name="upgrade">Frissítés</string> 
     <string name="rate">Mérték</string> 
-    <string name="action_donate">Adományozz a fejlesztőnek</string> 
+    <string name="action_donate">Adományozz a Fejlesztőnek</string>
     <string name="donate_greeting">Helló!</string> 
     <string name="donate_message">A nevem Amanda</string> 
     <string name="donate_message2">Ha élvezi ezt az alkalmazást, fontolja meg, vegye figyelembe az adományozási alkalmazás megvásárlását</string> 
     <string name="donate_message3">Az adományozási alkalmazás nem tesz semmit, de az adománya megmutatja nekem, hogy az egyszerű, nem-ADS alkalmazások fejlesztését elismert időm értékelik</string> 
-    <string name="donate_thanks">Kösz!</string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">Kösz!</string>
     <string name="small">Kicsi</string> 
     <string name="medium">Közepes</string> 
     <string name="large">Nagy</string> 
     <string name="small_heart">kis szív</string> 
     <string name="medium_heart">közepes szív</string> 
     <string name="large_heart">nagy szív</string> 
-    <string name="widget_display">Widget kijelző</string> 
-    <string name="show_hours"></string> 
-    <string name="show_date_and_time">Dátum és idő megjelenítése</string> 
+    <string name="widget_display">Widget Kijelző</string>
+    <string name="show_date_and_time">Dátum és idő Megjelenítése</string>
     <string name="show_hours">Óra</string> 
  </resources>

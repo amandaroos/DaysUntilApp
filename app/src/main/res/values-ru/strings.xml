@@ -6,7 +6,7 @@
     <string name="seconds">Секунды</string> 
     <string name="until">До</string> 
     <string name="days">Дни</string> 
-    <string name="day"></string> 
+    <string name="day">День</string>
     <string name="hour">Час</string> 
     <string name="minute">Минута</string> 
     <string name="second">Второй</string> 
@@ -19,18 +19,14 @@
     <string name="donate_message">Меня зовут Аманда</string> 
     <string name="donate_message2">Если вы наслаждаетесь этим приложением, я разработал, пожалуйста, рассмотрите возможность покупки моего приложения пожертвования</string> 
     <string name="donate_message3">Приложение для пожертвований ничего не делают, но ваше пожертвование покажет мне, что мое время, потраченное на разработку простой, приложения No-Ads ценятся</string> 
-    <string name="donate_thanks"></string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">Спасибо!</string>
     <string name="small">Небольшой</string> 
     <string name="medium">Середина</string> 
     <string name="large">Большой</string> 
     <string name="small_heart">маленькое сердце</string> 
     <string name="medium_heart">Среднее сердце</string> 
     <string name="large_heart">большое сердце</string> 
-    <string name="widget_display">Дисплей виджета</string> 
-    <string name="show_hours"></string> 
+    <string name="widget_display">Дисплей виджета</string>
     <string name="show_date_and_time">Показать дату и время</string> 
     <string name="show_hours">Показать часы</string> 
  </resources>

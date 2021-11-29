@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <resources> 
-    <string name="app_name">Tage bis</string> 
+    <string name="app_name">Tage Bis</string>
     <string name="hours">Std</string> 
     <string name="minutes">Protokoll</string> 
     <string name="seconds">Sekunden</string> 
     <string name="until">Bis um</string> 
     <string name="days">Tage</string> 
-    <string name="day"></string> 
+    <string name="day">Tag</string>
     <string name="hour">Stunde</string> 
     <string name="minute">Minute</string> 
     <string name="second">Sekunde</string> 
@@ -19,18 +19,14 @@
     <string name="donate_message">Ich heiße Amanda</string> 
     <string name="donate_message2">Wenn Sie diese App genießen, die ich entwickelt habe, erwägen Sie bitte, meine Spenden-App zu kaufen</string> 
     <string name="donate_message3">Die Spenden-App tut nichts, aber Ihre Spende zeigt mir, dass meine Zeit mit der Entwicklung von einfachen, NO-ADS-Apps geschätzt wird</string> 
-    <string name="donate_thanks">Vielen Dank!</string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">Vielen Dank!</string>
     <string name="small">Klein</string> 
     <string name="medium">Mittel</string> 
     <string name="large">Groß</string> 
     <string name="small_heart">kleines Herz</string> 
     <string name="medium_heart">mittelherzig</string> 
     <string name="large_heart">großes Herz</string> 
-    <string name="widget_display">Widget-Anzeige.</string> 
-    <string name="show_hours"></string> 
-    <string name="show_date_and_time">Datum und Uhrzeit anzeigen</string> 
-    <string name="show_hours">Die Stunden zeigen.</string> 
+    <string name="widget_display">Widget-Anzeige</string>
+    <string name="show_date_and_time">Datum und Uhrzeit Anzeigen</string>
+    <string name="show_hours">Die Stunden Zeigen</string>
  </resources>

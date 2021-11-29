@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <resources> 
-    <string name="app_name">Jou jouk</string> 
+    <string name="app_name">Jou Jouk</string>
     <string name="hours">Our</string> 
     <string name="minutes">Minit</string> 
     <string name="seconds">Segonn</string> 
     <string name="until">Jouk</string> 
     <string name="days">Jou</string> 
-    <string name="day"></string> 
+    <string name="day">Jounen</string>
     <string name="hour">Lè</string> 
     <string name="minute">Minit</string> 
     <string name="second">Dezyèm</string> 
@@ -14,23 +14,19 @@
     <string name="donate">Bay</string> 
     <string name="upgrade">Ajou</string> 
     <string name="rate">Tarif</string> 
-    <string name="action_donate">Fè don pou pwomotè</string> 
+    <string name="action_donate">Fè don pou Pwomotè</string>
     <string name="donate_greeting">Bonjou!</string> 
     <string name="donate_message">Non mwen se Amanda</string> 
     <string name="donate_message2">Si w ap jwi app sa a mwen devlope, tanpri konsidere achte app don mwen an</string> 
     <string name="donate_message3">App a don pa fè anyen, men don ou pral montre m \'ke tan mwen te pase devlope senp, pa gen okenn-Ajoute apps apresye</string> 
-    <string name="donate_thanks">Mèsi!</string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">Mèsi!</string>
     <string name="small">Piti</string> 
     <string name="medium">Mwayen</string> 
     <string name="large">Laj</string> 
     <string name="small_heart">ti kè</string> 
     <string name="medium_heart">mwayen kè</string> 
     <string name="large_heart">gwo kè</string> 
-    <string name="widget_display">Display Widget</string> 
-    <string name="show_hours"></string> 
-    <string name="show_date_and_time">Montre dat ak lè</string> 
-    <string name="show_hours">Montre èdtan</string> 
+    <string name="widget_display">Display Widget</string>
+    <string name="show_date_and_time">Montre Dat ak Lè</string>
+    <string name="show_hours">Montre Èdtan</string>
  </resources>

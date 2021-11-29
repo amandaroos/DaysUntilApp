@@ -1,36 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <resources> 
-    <string name="app_name">Dagar till</string> 
+    <string name="app_name">Dagar Till</string>
     <string name="hours">Himmar</string> 
     <string name="minutes">Minuter</string> 
     <string name="seconds">Sekunder</string> 
     <string name="until">Fram tills</string> 
     <string name="days">Dag</string> 
-    <string name="day"></string> 
+    <string name="day">Dag</string>
     <string name="hour">Timme</string> 
     <string name="minute">Minut</string> 
     <string name="second">Andra</string> 
-    <string name="settings">inställningar</string> 
+    <string name="settings">Inställningar</string>
     <string name="donate">Donera</string> 
     <string name="upgrade">Uppgradering</string> 
     <string name="rate">Betygsätta</string> 
-    <string name="action_donate">Donera till utvecklare</string> 
+    <string name="action_donate">Donera till Utvecklare</string>
     <string name="donate_greeting">Hej!</string> 
     <string name="donate_message">Mitt namn är Amanda</string> 
     <string name="donate_message2">Om du njuter av den här appen utvecklades jag, snälla överväga att köpa min donationsapp</string> 
     <string name="donate_message3">Donationsappen gör ingenting, men din donation visar mig att min tid att utveckla enkla, inga ADS-appar uppskattas</string> 
-    <string name="donate_thanks"></string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">Tack!</string>
     <string name="small">Små</string> 
     <string name="medium">Medium</string> 
     <string name="large">Stor</string> 
     <string name="small_heart">litet hjärta</string> 
     <string name="medium_heart">medelhögtal</string> 
     <string name="large_heart">stort hjärta</string> 
-    <string name="widget_display">Widgetdisplay</string> 
-    <string name="show_hours"></string> 
-    <string name="show_date_and_time">Visa datum och tid</string> 
-    <string name="show_hours">Visa timmar</string> 
+    <string name="widget_display">Widgetdisplay</string>
+    <string name="show_date_and_time">Visa Datum och Tid</string>
+    <string name="show_hours">Visa Timmar</string>
  </resources>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?> 
  <resources> 
-    <string name="app_name">Awọn ọjọ titi</string> 
+    <string name="app_name">Awọn Ọjọ Titi</string>
     <string name="hours">Wakati</string> 
     <string name="minutes">Iṣẹju</string> 
     <string name="seconds">Aaya</string> 
     <string name="until">Titi</string> 
-    <string name="days">Awọn ọjọ</string> 
-    <string name="day"></string> 
+    <string name="days">Awọn Ọjọ</string>
+    <string name="day">Ọjọ</string>
     <string name="hour">Wakati</string> 
     <string name="minute">Iṣẹju</string> 
     <string name="second">Ikeji</string> 
@@ -19,18 +19,14 @@
     <string name="donate_message">Orukọ mi ni Amanda</string> 
     <string name="donate_message2">Ti o ba n gbadun igbadun yii Mo dagbasoke, jọwọ ronu rira ohun elo ẹbun mi</string> 
     <string name="donate_message3">Ohun elo ẹbun ko ṣe ohunkohun, ṣugbọn ẹbun rẹ yoo fihan mi pe akoko mi ti lo mi pe wọn ṣe idagbasoke awọn irọrun ti o rọrun, awọn ohun elo ti a mọrí</string> 
-    <string name="donate_thanks"></string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">O ṣeun!</string>
     <string name="small">Kekere</string> 
     <string name="medium">Laarin</string> 
     <string name="large">Nla</string> 
     <string name="small_heart">okan kekere</string> 
     <string name="medium_heart">ọkan alabọde</string> 
     <string name="large_heart">ọkan nla</string> 
-    <string name="widget_display">Ẹrọ ailorukọ ẹrọ</string> 
-    <string name="show_hours"></string> 
-    <string name="show_date_and_time">Ṣe afihan ọjọ ati akoko</string> 
-    <string name="show_hours">Fihan awọn wakati</string> 
+    <string name="widget_display">Ẹrọ Ailorukọ Ẹrọ</string>
+    <string name="show_date_and_time">Ṣe afihan Ọjọ ati Akoko</string>
+    <string name="show_hours">Fihan awọn Qakati</string>
  </resources>

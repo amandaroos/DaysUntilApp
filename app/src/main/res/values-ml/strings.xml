@@ -6,7 +6,7 @@
     <string name="seconds">സെക്കൻഡ്</string> 
     <string name="until">വരുവോളം</string> 
     <string name="days">ദിവസങ്ങളിൽ</string> 
-    <string name="day"></string> 
+    <string name="day">ദിവസം</string>
     <string name="hour">മണിക്കൂര്</string> 
     <string name="minute">മിനിറ്റ്</string> 
     <string name="second">രണ്ടാമത്തേതായ</string> 
@@ -19,18 +19,14 @@
     <string name="donate_message">എന്റെ പേര് അമണ്ട</string> 
     <string name="donate_message2">ഞാൻ വികസിപ്പിച്ച ഈ അപ്ലിക്കേഷൻ നിങ്ങൾ ആസ്വദിക്കുകയാണെങ്കിൽ, ദയവായി എന്റെ സംഭാവന അപ്ലിക്കേഷൻ വാങ്ങുന്നത് പരിഗണിക്കുക</string> 
     <string name="donate_message3">സംഭാവന അപ്ലിക്കേഷൻ ഒന്നും ചെയ്യുന്നില്ല, പക്ഷേ നിങ്ങളുടെ സംഭാവന എനിക്ക് കാണിച്ചുതരാം, ലളിതമായി വികസിപ്പിച്ചെടുത്തതിനാൽ, പരസ്യ അപ്ലിക്കേഷനുകൾ വിലമതിക്കപ്പെട്ടുവെന്ന് നിങ്ങളുടെ സംഭാവന എന്നെ കാണിക്കും</string> 
-    <string name="donate_thanks">നന്ദി!</string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">നന്ദി!</string>
     <string name="small">ചെറിയ</string> 
     <string name="medium">മധസ്ഥാനം</string> 
     <string name="large">വലിയ</string> 
     <string name="small_heart">ചെറിയ ഹൃദയം</string> 
     <string name="medium_heart">ഇടത്തരം ഹൃദയം</string> 
     <string name="large_heart">വലിയ ഹൃദയം</string> 
-    <string name="widget_display">വിജറ്റ് ഡിസ്പ്ലേ</string> 
-    <string name="show_hours"></string> 
+    <string name="widget_display">വിജറ്റ് ഡിസ്പ്ലേ</string>
     <string name="show_date_and_time">തീയതിയും സമയവും കാണിക്കുക</string> 
     <string name="show_hours">മണിക്കൂറുകൾ കാണിക്കുക</string> 
  </resources>

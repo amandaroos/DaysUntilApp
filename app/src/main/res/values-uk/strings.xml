@@ -6,7 +6,7 @@
     <string name="seconds">Секунд</string> 
     <string name="until">Поки</string> 
     <string name="days">Дно</string> 
-    <string name="day"></string> 
+    <string name="day">День</string>
     <string name="hour">Година</string> 
     <string name="minute">Хвилина</string> 
     <string name="second">Другий</string> 
@@ -19,18 +19,14 @@
     <string name="donate_message">Мене звуть Аманда</string> 
     <string name="donate_message2">Якщо ви насолоджуєтеся цим додатком, я розробив, будь ласка, подумайте про покупку додаток до пожертвування</string> 
     <string name="donate_message3">Додаток пожертвувань не робить нічого, але ваша пожертва покаже мені, що мій час, витрачений на розробку простих, цінні програми оцінюються</string> 
-    <string name="donate_thanks"></string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">Дякую!</string>
     <string name="small">Малий</string> 
     <string name="medium">Середовище</string> 
     <string name="large">Великий</string> 
     <string name="small_heart">дрібне серце</string> 
     <string name="medium_heart">середнє серце</string> 
     <string name="large_heart">велике серце</string> 
-    <string name="widget_display">Віджет відображення</string> 
-    <string name="show_hours"></string> 
+    <string name="widget_display">Віджет відображення</string>
     <string name="show_date_and_time">Показати дату та час</string> 
-    <string name="show_hours"></string> 
+    <string name="show_hours">Показати години</string>
  </resources>

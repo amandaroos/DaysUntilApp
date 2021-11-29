@@ -6,7 +6,7 @@
     <string name="seconds">វិនាទី</string> 
     <string name="until">លុហរតានិយ័ត</string> 
     <string name="days">ថៃ</string> 
-    <string name="day"></string> 
+    <string name="day">ថៃ</string>
     <string name="hour">ម៉ោង</string> 
     <string name="minute">នាទី</string> 
     <string name="second">ដេលរេបីរយចហើយ</string> 
@@ -19,18 +19,14 @@
     <string name="donate_message">ខ្ញុំឈ្មោះអាម៉ាន់ដា</string> 
     <string name="donate_message2">ប្រសិនបើអ្នកកំពុងរីករាយជាមួយកម្មវិធីនេះខ្ញុំបានអភិវឌ្ឍសូមពិចារណាទិញកម្មវិធីបរិច្ចាគរបស់ខ្ញុំ</string> 
     <string name="donate_message3">កម្មវិធីអំណោយមិនធ្វើអ្វីទាំងអស់ប៉ុន្តែការបរិច្ចាគរបស់អ្នកនឹងបង្ហាញខ្ញុំថាពេលវេលារបស់ខ្ញុំចំណាយពេលវេលាអភិវឌ្ឍសាមញ្ញកម្មវិធីគ្មានការផ្សាយពាណិជ្ជកម្មត្រូវបានកោតសរសើរចំពោះការផ្សាយពាណិជ្ជកម្ម</string> 
-    <string name="donate_thanks">សូមអរគុណ!</string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">សូមអរគុណ!</string>
     <string name="small">តូច</string> 
     <string name="medium">នៃមច្ឈកតិ</string> 
     <string name="large">ធម</string> 
     <string name="small_heart">បេះដូងតូច</string> 
     <string name="medium_heart">បេះដូងមធ្យម</string> 
     <string name="large_heart">បេះដូងធំ</string> 
-    <string name="widget_display">ការបង្ហាញធាតុក្រាហ្វិក</string> 
-    <string name="show_hours"></string> 
+    <string name="widget_display">ការបង្ហាញធាតុក្រាហ្វិក</string>
     <string name="show_date_and_time">បង្ហាញកាលបរិច្ឆេទនិងពេលវេលា</string> 
     <string name="show_hours">បង្ហាញម៉ោង</string> 
  </resources>

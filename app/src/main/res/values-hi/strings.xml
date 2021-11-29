@@ -6,7 +6,7 @@
     <string name="seconds">सेकंड</string> 
     <string name="until">जब तक</string> 
     <string name="days">दिन</string> 
-    <string name="day"></string> 
+    <string name="day">दिन</string>
     <string name="hour">घंटा</string> 
     <string name="minute">मिनट</string> 
     <string name="second">दूसरा</string> 
@@ -19,18 +19,14 @@
     <string name="donate_message">मेरा नाम अमांडा है</string> 
     <string name="donate_message2">यदि आप इस ऐप का आनंद ले रहे हैं, तो मैंने अपना दान ऐप खरीदने पर विचार किया</string> 
     <string name="donate_message3">दान ऐप कुछ भी नहीं करता है, लेकिन आपका दान मुझे दिखाएगा कि मेरा समय सरल विकास करने में बिताया, नो-विज्ञापन ऐप्स की सराहना की जाती है</string> 
-    <string name="donate_thanks">धन्यवाद!</string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">धन्यवाद!</string>
     <string name="small">छोटा</string> 
     <string name="medium">मध्यम</string> 
     <string name="large">बड़ा</string> 
     <string name="small_heart">छोटा दिल</string> 
     <string name="medium_heart">मध्यम हृदय</string> 
     <string name="large_heart">बड़ा दिल</string> 
-    <string name="widget_display">विजेट प्रदर्शन</string> 
-    <string name="show_hours"></string> 
+    <string name="widget_display">विजेट प्रदर्शन</string>
     <string name="show_date_and_time">दिनांक और समय दिखाएं</string> 
     <string name="show_hours">घंटे दिखाओ</string> 
  </resources>

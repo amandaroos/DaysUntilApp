@@ -6,7 +6,7 @@
     <string name="seconds">Δευτερόλεπτα</string> 
     <string name="until">Μέχρι</string> 
     <string name="days">Μέρες</string> 
-    <string name="day"></string> 
+    <string name="day">Ημέρα</string>
     <string name="hour">Ωρα</string> 
     <string name="minute">Λεπτό</string> 
     <string name="second">Δεύτερος</string> 
@@ -19,18 +19,14 @@
     <string name="donate_message">Το όνομά μου είναι Amanda</string> 
     <string name="donate_message2">Εάν απολαμβάνετε αυτήν την εφαρμογή, ανέπτυξα, παρακαλώ εξετάστε την αγορά της εφαρμογής δωρεάς μου</string> 
     <string name="donate_message3">Η εφαρμογή δωρεάς δεν κάνει τίποτα, αλλά η δωρεά σας θα μου δείξει ότι ο χρόνος μου που πέρασε η ανάπτυξη απλών, οι εφαρμογές χωρίς διαφημίσεις εκτιμώνται</string> 
-    <string name="donate_thanks">Ευχαριστώ!</string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">Ευχαριστώ!</string>
     <string name="small">Μικρό</string> 
     <string name="medium">Μεσαίο</string> 
     <string name="large">Μεγάλο</string> 
     <string name="small_heart">μικρή καρδιά</string> 
     <string name="medium_heart">μεσαία καρδιά</string> 
     <string name="large_heart">μεγάλη καρδιά</string> 
-    <string name="widget_display">Ένδειξη widget</string> 
-    <string name="show_hours"></string> 
+    <string name="widget_display">Ένδειξη widget</string>
     <string name="show_date_and_time">Εμφάνιση ημερομηνίας και ώρας</string> 
     <string name="show_hours">Εμφάνιση ωρών</string> 
  </resources>

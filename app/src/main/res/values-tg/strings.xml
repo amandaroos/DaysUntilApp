@@ -6,7 +6,7 @@
     <string name="seconds">Сонияҳо</string> 
     <string name="until">То</string> 
     <string name="days">Рӯзҳо</string> 
-    <string name="day"></string> 
+    <string name="day">Рӯз</string>
     <string name="hour">Соат</string> 
     <string name="minute">Дақиқа</string> 
     <string name="second">Дуюм</string> 
@@ -19,18 +19,14 @@
     <string name="donate_message">Номи ман Аманда аст</string> 
     <string name="donate_message2">Агар шумо аз ин барнома лаззат барам, лутфан ба хариди барнома хайрия нигарам</string> 
     <string name="donate_message3">Барномаи хайрия ҳеҷ кор намекунад, аммо хайрияи шумо ба ман нишон хоҳад дод, ки вақти ман барои таҳияи барномаҳои оддӣ, ғайрифаъол истифода мешавад</string> 
-    <string name="donate_thanks"></string> 
-    <string name="small"></string> 
-    <string name="medium"></string> 
-    <string name="large"></string> 
+    <string name="donate_thanks">Ташаккур!</string>
     <string name="small">Хурд</string> 
     <string name="medium">Миёна</string> 
     <string name="large">Калон</string> 
     <string name="small_heart">дили хурд</string> 
     <string name="medium_heart">дили миёна</string> 
     <string name="large_heart">дили калон</string> 
-    <string name="widget_display">Виджет намоиш</string> 
-    <string name="show_hours"></string> 
+    <string name="widget_display">Виджет намоиш</string>
     <string name="show_date_and_time">Сана ва вақтро нишон диҳед</string> 
     <string name="show_hours">Нишон диҳед</string> 
  </resources>
